@@ -74,7 +74,7 @@
           <div class="row " style="margin-bottom:100px!important">
 
   
-              <div class="col-lg-12 col-md-12">
+            <div class="col-lg-12 col-md-12">
                   <div class="">
                       
                       <span style="color:rgb(255, 255, 255)!important;">ENTER TEAMS</span>
@@ -2000,32 +2000,58 @@
                   </div>
                   <a type="button" onclick="sendReq()" class = "button-13" style="background-color:rgb(255, 255, 255)!important;color:rgb(0, 0, 0)!important;border-style: none!important;">ANALYZE</a>
                   
-              </div>
+            </div>
 
-              <div class="col-lg-4 col-md-4" style="color:white!important;">
+              <div class="col-lg-12 col-md-12" style="color:white!important;margin-top:10px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
                   <div >
-                      <ul>
-                          
-                              <div class="">
-                                  <div >
-                                    <div  id="resultBoxHomeTeamName">
-
-                                    </div>
-                                    <div  id="resultBoxHomeTeamGoals"></div>
-                                    <div  id="resultBoxAwayTeamName">
-                        
-                                    </div>
-                                    <div id="resultBoxAwayTeamGoals"></div>                              
-                                  
-                                  
-                                  
-                                  
-                                  </div>
-                             
-                              </div>
                     
-                      </ul>
+                          
+                              <div style="margin-top:50px;margin-bottom:20px">
 
+                                   <div class="hero-text"    id="resultBoxHomeTeamName">
+
+                                   </div>
+                                  
+                                    <div class="hero-text"    id="resultBoxAwayTeamName">
+                     
+                                    </div>
+                                   
+                                  </div>
+                                 
+                              </div>
+                                             
+
+                   
+                      <span style="color: wheat!important;">Result: </span>
+                      <div  style="font-size: x-large;"  >
+                        <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamGoals" ></span>
+                         -
+                        <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamGoals"></span>       
+                      </div>
+                      <span style="color: wheat!important;">Yellow: </span>
+                      <div  style="font-size: x-large;"  >
+                        <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamYellow" ></span>
+                         -
+                        <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamYellow"></span>       
+                      </div>
+                      <span style="color: wheat!important;">Shots: </span>
+                      <div  style="font-size: x-large;"  >
+                        <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamShots" ></span>
+                         -
+                        <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamShots"></span>       
+                      </div>
+                      <span style="color: wheat!important;">On target: </span>
+                      <div  style="font-size: x-large;"  >
+                        <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamOnTarget" ></span>
+                         -
+                        <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamOnTarget"></span>       
+                      </div>
+                      <span style="color: wheat!important;">Corners</span>
+                      <div  style="font-size: x-large;"  >
+                        <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamCorners" ></span>
+                         -
+                        <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamCorners"></span>       
+                      </div>
                   </div>
               </div>
              
@@ -2049,21 +2075,36 @@
   <script src="assets/js/main.js"></script>
 
   <script>
+    function roundUp(num, precision) {
+  precision = Math.pow(10, precision)
+  return Math.ceil(num * precision) / precision
+}
+
       function sendReq(){
     console.log("?")
     var xmlhttp = new XMLHttpRequest();
 
 var url = "https://ac4zizt4f6.execute-api.eu-central-1.amazonaws.com/prod?homeTeam=" +home + "&awayTeam=" +away;
+//var url = "http://127.0.0.1:5050/matches?homeTeam=" +home + "&awayTeam=" +away;
 
 
 xmlhttp.open("GET", url, true);
+
 xmlhttp.onreadystatechange = function() {//Call a function when the state changes.
   if(xmlhttp.readyState == 4 && xmlhttp.status == 200) {
       var res = JSON.parse( xmlhttp.responseText )
-      document.getElementById("resultBoxHomeTeamName").textContent =  res['homeTeamName']
-      document.getElementById("resultBoxHomeTeamGoals").textContent =  res['homeTeamGoals']
-      document.getElementById("resultBoxAwayTeamName").textContent =  res['awayTeamName']
-      document.getElementById("resultBoxAwayTeamGoals").textContent =  res['awayTeamGoals']
+      //document.getElementById("resultBoxHomeTeamName").textContent =  res['homeTeamName']
+      document.getElementById("resultBoxHomeTeamGoals").textContent =  roundUp(Number(res['homeTeamGoals']),2)
+      //document.getElementById("resultBoxAwayTeamName").textContent =  res['awayTeamName']
+      document.getElementById("resultBoxAwayTeamGoals").textContent =  roundUp(Number(res['awayTeamGoals']),2)
+      document.getElementById("resultBoxHomeTeamShots").textContent =   roundUp(Number(res['homeTeamShots']),2)
+      document.getElementById("resultBoxHomeTeamYellow").textContent =   roundUp(Number(res['homeTeamYellow']),2)
+      document.getElementById("resultBoxAwayTeamShots").textContent =   roundUp(Number(res['awayTeamShots']),2)
+      document.getElementById("resultBoxAwayTeamYellow").textContent =   roundUp(Number(res['awayTeamYellow']),2)
+      document.getElementById("resultBoxAwayTeamOnTarget").textContent =   roundUp(Number(res['awayTeamOnTarget']),2)
+      document.getElementById("resultBoxHomeTeamOnTarget").textContent =   roundUp(Number(res['homeTeamOnTarget']),2)
+      document.getElementById("resultBoxAwayTeamCorners").textContent =   roundUp(Number(res['awayTeamCorners']),2)
+      document.getElementById("resultBoxHomeTeamCorners").textContent =   roundUp(Number(res['homeTeamCorners']),2)
   }
 
   }
