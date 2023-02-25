@@ -1,0 +1,951 @@
+,HomeTeam
+0,Valencia
+1,Cadiz
+2,Mallorca
+3,Alaves
+4,Osasuna
+5,Celta
+6,Barcelona
+7,Sevilla
+8,Villarreal
+9,Elche
+10,Betis
+11,Alaves
+12,Espanol
+13,Granada
+14,Ath Bilbao
+15,Sociedad
+16,Ath Madrid
+17,Levante
+18,Getafe
+19,Osasuna
+20,Mallorca
+21,Valencia
+22,Celta
+23,Elche
+24,Sociedad
+25,Betis
+26,Barcelona
+27,Cadiz
+28,Vallecano
+29,Ath Madrid
+30,Levante
+31,Ath Bilbao
+32,Espanol
+33,Osasuna
+34,Cadiz
+35,Real Madrid
+36,Getafe
+37,Granada
+38,Celta
+39,Vallecano
+40,Ath Madrid
+41,Elche
+42,Alaves
+43,Mallorca
+44,Sociedad
+45,Betis
+46,Valencia
+47,Barcelona
+48,Getafe
+49,Ath Bilbao
+50,Levante
+51,Espanol
+52,Sevilla
+53,Real Madrid
+54,Villarreal
+55,Granada
+56,Osasuna
+57,Cadiz
+58,Alaves
+59,Valencia
+60,Sevilla
+61,Real Madrid
+62,Mallorca
+63,Barcelona
+64,Sociedad
+65,Vallecano
+66,Betis
+67,Celta
+68,Ath Bilbao
+69,Osasuna
+70,Mallorca
+71,Cadiz
+72,Ath Madrid
+73,Elche
+74,Espanol
+75,Getafe
+76,Villarreal
+77,Granada
+78,Levante
+79,Sociedad
+80,Vallecano
+81,Celta
+82,Villarreal
+83,Barcelona
+84,Alaves
+85,Espanol
+86,Osasuna
+87,Valencia
+88,Cadiz
+89,Elche
+90,Ath Bilbao
+91,Sevilla
+92,Barcelona
+93,Betis
+94,Ath Madrid
+95,Getafe
+96,Alaves
+97,Espanol
+98,Villarreal
+99,Mallorca
+100,Vallecano
+101,Betis
+102,Real Madrid
+103,Celta
+104,Granada
+105,Levante
+106,Elche
+107,Sevilla
+108,Valencia
+109,Barcelona
+110,Cadiz
+111,Ath Madrid
+112,Getafe
+113,Sociedad
+114,Vallecano
+115,Levante
+116,Monaco
+117,Lyon
+118,Troyes
+119,Rennes
+120,Bordeaux
+121,Nice
+122,St Etienne
+123,Strasbourg
+124,Metz
+125,Montpellier
+126,Lorient
+127,Lille
+128,Paris SG
+129,Angers
+130,Brest
+131,Clermont
+132,Nantes
+133,Reims
+134,Lens
+135,Marseille
+136,Brest
+137,Monaco
+138,St Etienne
+139,Lyon
+140,Bordeaux
+141,Metz
+142,Montpellier
+143,Strasbourg
+144,Rennes
+145,Nantes
+146,Nice
+147,Marseille
+148,Troyes
+149,Angers
+150,Clermont
+151,Lens
+152,Strasbourg
+153,Lille
+154,Reims
+155,Lorient
+156,Paris SG
+157,Monaco
+158,Montpellier
+159,Bordeaux
+160,Brest
+161,Metz
+162,Rennes
+163,Nantes
+164,Lyon
+165,Strasbourg
+166,Lens
+167,St Etienne
+168,Nice
+169,Angers
+170,Clermont
+171,Reims
+172,Troyes
+173,Marseille
+174,Paris SG
+175,Lille
+176,Monaco
+177,Montpellier
+178,Nantes
+179,Rennes
+180,Angers
+181,Lens
+182,Lorient
+183,Lyon
+184,Metz
+185,St Etienne
+186,Strasbourg
+187,Lyon
+188,Paris SG
+189,Bordeaux
+190,Brest
+191,Reims
+192,Troyes
+193,Clermont
+194,Marseille
+195,Lens
+196,Montpellier
+197,Nice
+198,Rennes
+199,Angers
+200,Lorient
+201,Monaco
+202,Nantes
+203,Lille
+204,St Etienne
+205,Paris SG
+206,Clermont
+207,Lyon
+208,Troyes
+209,Bordeaux
+210,Brest
+211,Metz
+212,Strasbourg
+213,Montpellier
+214,Marseille
+215,St Etienne
+216,Nantes
+217,Lille
+218,Nice
+219,Lens
+220,Lorient
+221,Reims
+222,Rennes
+223,Monaco
+224,Marseille
+225,Nice
+226,Paris SG
+227,Metz
+228,Lyon
+229,Angers
+230,Bordeaux
+231,Montpellier
+232,Strasbourg
+233,Troyes
+234,Brest
+235,Clermont
+236,Brentford
+237,Man United
+238,Burnley
+239,Chelsea
+240,Everton
+241,Leicester
+242,Watford
+243,Norwich
+244,Newcastle
+245,Tottenham
+246,Liverpool
+247,Aston Villa
+248,Crystal Palace
+249,Leeds
+250,Man City
+251,Brighton
+252,Southampton
+253,Wolves
+254,Arsenal
+255,West Ham
+256,Man City
+257,Aston Villa
+258,Brighton
+259,Newcastle
+260,Norwich
+261,West Ham
+262,Liverpool
+263,Burnley
+264,Tottenham
+265,Wolves
+266,Crystal Palace
+267,Arsenal
+268,Brentford
+269,Leicester
+270,Man United
+271,Southampton
+272,Watford
+273,Chelsea
+274,Leeds
+275,Everton
+276,Newcastle
+277,Wolves
+278,Burnley
+279,Liverpool
+280,Man City
+281,Norwich
+282,Aston Villa
+283,Brighton
+284,West Ham
+285,Tottenham
+286,Chelsea
+287,Man United
+288,Everton
+289,Leeds
+290,Leicester
+291,Watford
+292,Brentford
+293,Southampton
+294,Arsenal
+295,Crystal Palace
+296,Man United
+297,Burnley
+298,Chelsea
+299,Leeds
+300,Wolves
+301,Brighton
+302,Crystal Palace
+303,Tottenham
+304,West Ham
+305,Liverpool
+306,Watford
+307,Aston Villa
+308,Leicester
+309,Man City
+310,Norwich
+311,Southampton
+312,Brentford
+313,Everton
+314,Newcastle
+315,Arsenal
+316,Arsenal
+317,Chelsea
+318,Crystal Palace
+319,Everton
+320,Leeds
+321,Southampton
+322,Brighton
+323,Brentford
+324,West Ham
+325,Man United
+326,Leicester
+327,Burnley
+328,Liverpool
+329,Man City
+330,Newcastle
+331,Watford
+332,Tottenham
+333,Norwich
+334,Aston Villa
+335,Wolves
+336,M'gladbach
+337,Augsburg
+338,Bielefeld
+339,Stuttgart
+340,Union Berlin
+341,Wolfsburg
+342,Dortmund
+343,Mainz
+344,FC Koln
+345,RB Leipzig
+346,Bochum
+347,Ein Frankfurt
+348,Freiburg
+349,Greuther Furth
+350,Hertha
+351,Leverkusen
+352,Hoffenheim
+353,Bayern Munich
+354,Dortmund
+355,Augsburg
+356,Bielefeld
+357,FC Koln
+358,Mainz
+359,Stuttgart
+360,Bayern Munich
+361,Union Berlin
+362,Wolfsburg
+363,Freiburg
+364,Greuther Furth
+365,Hoffenheim
+366,Leverkusen
+367,Union Berlin
+368,RB Leipzig
+369,Ein Frankfurt
+370,Bochum
+371,M'gladbach
+372,Hertha
+373,Augsburg
+374,Bayern Munich
+375,Bielefeld
+376,Mainz
+377,FC Koln
+378,Stuttgart
+379,Dortmund
+380,Wolfsburg
+381,Greuther Furth
+382,Ein Frankfurt
+383,Hoffenheim
+384,Leverkusen
+385,RB Leipzig
+386,Union Berlin
+387,M'gladbach
+388,Bochum
+389,Freiburg
+390,FC Koln
+391,Dortmund
+392,Hertha
+393,Stuttgart
+394,Wolfsburg
+395,RB Leipzig
+396,Mainz
+397,Bayern Munich
+398,Bielefeld
+399,Hoffenheim
+400,Dortmund
+401,Ein Frankfurt
+402,Freiburg
+403,Greuther Furth
+404,Union Berlin
+405,M'gladbach
+406,Leverkusen
+407,Augsburg
+408,Mainz
+409,Bayern Munich
+410,Bielefeld
+411,RB Leipzig
+412,Wolfsburg
+413,Hertha
+414,FC Koln
+415,Stuttgart
+416,Bochum
+417,Hoffenheim
+418,Bielefeld
+419,Dortmund
+420,Freiburg
+421,Leverkusen
+422,Union Berlin
+423,Ein Frankfurt
+424,Augsburg
+425,M'gladbach
+426,Inter
+427,Verona
+428,Empoli
+429,Torino
+430,Bologna
+431,Udinese
+432,Napoli
+433,Roma
+434,Cagliari
+435,Sampdoria
+436,Udinese
+437,Verona
+438,Atalanta
+439,Lazio
+440,Fiorentina
+441,Juventus
+442,Genoa
+443,Sassuolo
+444,Milan
+445,Salernitana
+446,Empoli
+447,Napoli
+448,Atalanta
+449,Sampdoria
+450,Cagliari
+451,Spezia
+452,Torino
+453,Milan
+454,Roma
+455,Bologna
+456,Sassuolo
+457,Genoa
+458,Inter
+459,Salernitana
+460,Empoli
+461,Venezia
+462,Lazio
+463,Verona
+464,Juventus
+465,Udinese
+466,Bologna
+467,Atalanta
+468,Fiorentina
+469,Salernitana
+470,Spezia
+471,Cagliari
+472,Milan
+473,Sampdoria
+474,Torino
+475,Roma
+476,Spezia
+477,Inter
+478,Genoa
+479,Juventus
+480,Empoli
+481,Sassuolo
+482,Udinese
+483,Lazio
+484,Napoli
+485,Venezia
+486,Cagliari
+487,Salernitana
+488,Torino
+489,Sassuolo
+490,Bologna
+491,Sampdoria
+492,Verona
+493,Fiorentina
+494,Roma
+495,Atalanta
+496,Spezia
+497,Lazio
+498,Milan
+499,Cagliari
+500,Empoli
+501,Genoa
+502,Udinese
+503,Napoli
+504,Juventus
+505,Venezia
+506,Torino
+507,Sampdoria
+508,Salernitana
+509,Sassuolo
+510,Bologna
+511,Atalanta
+512,Fiorentina
+513,Verona
+514,Roma
+515,Inter
+516,Spezia
+517,Venezia
+518,Milan
+519,Juventus
+520,Sampdoria
+521,Udinese
+522,Cagliari
+523,Empoli
+524,Lazio
+525,Napoli
+526,Atalanta
+527,Verona
+528,Torino
+529,Inter
+530,Fiorentina
+531,Genoa
+532,Sassuolo
+533,Salernitana
+534,Roma
+535,Bologna
+536,Standard
+537,Oud-Heverlee Leuven
+538,Kortrijk
+539,Oostende
+540,Mechelen
+541,Club Brugge
+542,Anderlecht
+543,St Truiden
+544,Beerschot VA
+545,Genk
+546,Charleroi
+547,Cercle Brugge
+548,Seraing
+549,Eupen
+550,St. Gilloise
+551,Waregem
+552,Gent
+553,Antwerp
+554,Club Brugge
+555,Beerschot VA
+556,Mechelen
+557,St Truiden
+558,Kortrijk
+559,Standard
+560,Oud-Heverlee Leuven
+561,Anderlecht
+562,Oostende
+563,Charleroi
+564,St. Gilloise
+565,Eupen
+566,Seraing
+567,Genk
+568,Beerschot VA
+569,Gent
+570,Cercle Brugge
+571,Waregem
+572,Standard
+573,Seraing
+574,Oud-Heverlee Leuven
+575,St Truiden
+576,Waregem
+577,Club Brugge
+578,Mechelen
+579,Kortrijk
+580,Charleroi
+581,Cercle Brugge
+582,Eupen
+583,St. Gilloise
+584,Gent
+585,Antwerp
+586,Genk
+587,Oostende
+588,Club Brugge
+589,Eupen
+590,Waregem
+591,Anderlecht
+592,Gent
+593,Seraing
+594,Genk
+595,Oud-Heverlee Leuven
+596,Beerschot VA
+597,Cercle Brugge
+598,Oostende
+599,Mechelen
+600,St. Gilloise
+601,Charleroi
+602,St Truiden
+603,Antwerp
+604,Standard
+605,Kortrijk
+606,Antwerp
+607,Anderlecht
+608,Club Brugge
+609,Beerschot VA
+610,Waregem
+611,Standard
+612,St. Gilloise
+613,Gent
+614,Oostende
+615,Charleroi
+616,Genk
+617,Mechelen
+618,Kortrijk
+619,Cercle Brugge
+620,St Truiden
+621,Oud-Heverlee Leuven
+622,Anderlecht
+623,Seraing
+624,Antwerp
+625,Eupen
+626,Club Brugge
+627,St. Gilloise
+628,Oostende
+629,Waregem
+630,Standard
+631,St Truiden
+632,Beerschot VA
+633,Charleroi
+634,Gent
+635,Seraing
+636,Cercle Brugge
+637,Kortrijk
+638,Mechelen
+639,Eupen
+640,Antwerp
+641,Anderlecht
+642,Genk
+643,Oud-Heverlee Leuven
+644,Oostende
+645,Charleroi
+646,Beerschot VA
+647,Standard
+648,St Truiden
+649,Waregem
+650,Cercle Brugge
+651,Anderlecht
+652,Gent
+653,Go Ahead Eagles
+654,Waalwijk
+655,Heracles
+656,For Sittard
+657,Ajax
+658,Cambuur
+659,Utrecht
+660,Zwolle
+661,Willem II
+662,Nijmegen
+663,Heerenveen
+664,PSV Eindhoven
+665,Sparta Rotterdam
+666,Groningen
+667,Twente
+668,Feyenoord
+669,Vitesse
+670,For Sittard
+671,Cambuur
+672,Go Ahead Eagles
+673,PSV Eindhoven
+674,Willem II
+675,Utrecht
+676,Ajax
+677,Heracles
+678,Heerenveen
+679,Twente
+680,Cambuur
+681,Zwolle
+682,AZ Alkmaar
+683,Nijmegen
+684,Groningen
+685,Sparta Rotterdam
+686,Waalwijk
+687,Sparta Rotterdam
+688,Heerenveen
+689,Willem II
+690,Ajax
+691,Utrecht
+692,Go Ahead Eagles
+693,PSV Eindhoven
+694,Heracles
+695,Vitesse
+696,For Sittard
+697,Waalwijk
+698,Go Ahead Eagles
+699,Nijmegen
+700,Groningen
+701,Feyenoord
+702,Zwolle
+703,Cambuur
+704,Twente
+705,Willem II
+706,Ajax
+707,Vitesse
+708,Feyenoord
+709,Utrecht
+710,Sparta Rotterdam
+711,AZ Alkmaar
+712,Heerenveen
+713,Heracles
+714,Groningen
+715,Waalwijk
+716,Heracles
+717,Zwolle
+718,For Sittard
+719,Ajax
+720,Cambuur
+721,Vitesse
+722,PSV Eindhoven
+723,Feyenoord
+724,Go Ahead Eagles
+725,Heerenveen
+726,For Sittard
+727,PSV Eindhoven
+728,AZ Alkmaar
+729,Nijmegen
+730,Sparta Rotterdam
+731,Twente
+732,Willem II
+733,Utrecht
+734,Zwolle
+735,Waalwijk
+736,Twente
+737,Cambuur
+738,Vitesse
+739,Ajax
+740,Groningen
+741,PSV Eindhoven
+742,Heracles
+743,Heerenveen
+744,AZ Alkmaar
+745,Sparta Rotterdam
+746,Nijmegen
+747,Utrecht
+748,Waalwijk
+749,Go Ahead Eagles
+750,Sp Lisbon
+751,Arouca
+752,Moreirense
+753,Maritimo
+754,Guimaraes
+755,Tondela
+756,Porto
+757,Pacos Ferreira
+758,Gil Vicente
+759,Estoril
+760,Vizela
+761,Benfica
+762,Sp Braga
+763,Portimonense
+764,Famalicao
+765,Santa Clara
+766,Boavista
+767,Belenenses
+768,Arouca
+769,Moreirense
+770,Gil Vicente
+771,Sp Lisbon
+772,Tondela
+773,Maritimo
+774,Guimaraes
+775,Pacos Ferreira
+776,Boavista
+777,Belenenses
+778,Estoril
+779,Vizela
+780,Porto
+781,Famalicao
+782,Benfica
+783,Sp Braga
+784,Portimonense
+785,Santa Clara
+786,Pacos Ferreira
+787,Santa Clara
+788,Sp Lisbon
+789,Moreirense
+790,Boavista
+791,Gil Vicente
+792,Guimaraes
+793,Maritimo
+794,Tondela
+795,Portimonense
+796,Famalicao
+797,Belenenses
+798,Arouca
+799,Vizela
+800,Porto
+801,Estoril
+802,Benfica
+803,Sp Braga
+804,Sp Lisbon
+805,Gil Vicente
+806,Moreirense
+807,Guimaraes
+808,Tondela
+809,Santa Clara
+810,Portimonense
+811,Pacos Ferreira
+812,Boavista
+813,Maritimo
+814,Famalicao
+815,Vizela
+816,Porto
+817,Arouca
+818,Belenenses
+819,Benfica
+820,Estoril
+821,Sp Braga
+822,Guimaraes
+823,Santa Clara
+824,Tondela
+825,Sp Lisbon
+826,Pacos Ferreira
+827,Vizela
+828,Portimonense
+829,Gil Vicente
+830,Boavista
+831,Arouca
+832,Porto
+833,Estoril
+834,Sp Lisbon
+835,Maritimo
+836,Belenenses
+837,Famalicao
+838,Sp Braga
+839,Moreirense
+840,Besiktas
+841,Karagumruk
+842,Altay
+843,Hatayspor
+844,Buyuksehyr
+845,Ad. Demirspor
+846,Antalyaspor
+847,Sivasspor
+848,Yeni Malatyaspor
+849,Giresunspor
+850,Kayserispor
+851,Kasimpasa
+852,Rizespor
+853,Alanyaspor
+854,Gaziantep
+855,Konyaspor
+856,Fenerbahce
+857,Goztep
+858,Trabzonspor
+859,Galatasaray
+860,Antalyaspor
+861,Ad. Demirspor
+862,Buyuksehyr
+863,Yeni Malatyaspor
+864,Besiktas
+865,Hatayspor
+866,Kasimpasa
+867,Sivasspor
+868,Altay
+869,Giresunspor
+870,Karagumruk
+871,Konyaspor
+872,Besiktas
+873,Kayserispor
+874,Fenerbahce
+875,Rizespor
+876,Goztep
+877,Trabzonspor
+878,Alanyaspor
+879,Gaziantep
+880,Altay
+881,Yeni Malatyaspor
+882,Sivasspor
+883,Kasimpasa
+884,Ad. Demirspor
+885,Antalyaspor
+886,Giresunspor
+887,Galatasaray
+888,Buyuksehyr
+889,Hatayspor
+890,Karagumruk
+891,Rizespor
+892,Besiktas
+893,Yeni Malatyaspor
+894,Gaziantep
+895,Goztep
+896,Kayserispor
+897,Konyaspor
+898,Alanyaspor
+899,Fenerbahce
+900,Altay
+901,Sivasspor
+902,Antalyaspor
+903,Ad. Demirspor
+904,Giresunspor
+905,Buyuksehyr
+906,Hatayspor
+907,Galatasaray
+908,Kasimpasa
+909,Trabzonspor
+910,Antalyaspor
+911,Karagumruk
+912,Konyaspor
+913,Goztep
+914,Kayserispor
+915,Besiktas
+916,Yeni Malatyaspor
+917,Fenerbahce
+918,Gaziantep
+919,Rizespor
+920,Buyuksehyr
+921,Giresunspor
+922,Sivasspor
+923,Ad. Demirspor
+924,Kasimpasa
+925,Altay
+926,Galatasaray
+927,Trabzonspor
+928,Alanyaspor
+929,Hatayspor
+930,Yeni Malatyaspor
+931,Rizespor
+932,Gaziantep
+933,Konyaspor
+934,Goztep
+935,Karagumruk
+936,Antalyaspor
+937,Sivasspor
+938,Fenerbahce
+939,Besiktas
+940,Trabzonspor
+941,Kasimpasa
+942,Altay
+943,Hatayspor
+944,Konyaspor
+945,Kayserispor
+946,Alanyaspor
+947,Galatasaray
+948,Buyuksehyr
+949,Giresunspor

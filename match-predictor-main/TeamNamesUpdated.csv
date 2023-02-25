@@ -1,0 +1,5938 @@
+,HomeTeam
+0,Valencia
+1,Cadiz
+2,Mallorca
+3,Alaves
+4,Osasuna
+5,Celta
+6,Barcelona
+7,Sevilla
+8,Villarreal
+9,Elche
+10,Betis
+11,Alaves
+12,Espanol
+13,Granada
+14,Ath Bilbao
+15,Sociedad
+16,Ath Madrid
+17,Levante
+18,Getafe
+19,Osasuna
+20,Mallorca
+21,Valencia
+22,Celta
+23,Elche
+24,Sociedad
+25,Betis
+26,Barcelona
+27,Cadiz
+28,Vallecano
+29,Ath Madrid
+30,Levante
+31,Ath Bilbao
+32,Espanol
+33,Osasuna
+34,Cadiz
+35,Real Madrid
+36,Getafe
+37,Granada
+38,Celta
+39,Vallecano
+40,Ath Madrid
+41,Elche
+42,Alaves
+43,Mallorca
+44,Sociedad
+45,Betis
+46,Valencia
+47,Barcelona
+48,Getafe
+49,Ath Bilbao
+50,Levante
+51,Espanol
+52,Sevilla
+53,Real Madrid
+54,Villarreal
+55,Granada
+56,Osasuna
+57,Cadiz
+58,Alaves
+59,Valencia
+60,Sevilla
+61,Real Madrid
+62,Mallorca
+63,Barcelona
+64,Sociedad
+65,Vallecano
+66,Betis
+67,Celta
+68,Ath Bilbao
+69,Osasuna
+70,Mallorca
+71,Cadiz
+72,Ath Madrid
+73,Elche
+74,Espanol
+75,Getafe
+76,Villarreal
+77,Granada
+78,Levante
+79,Sociedad
+80,Vallecano
+81,Celta
+82,Villarreal
+83,Barcelona
+84,Alaves
+85,Espanol
+86,Osasuna
+87,Valencia
+88,Cadiz
+89,Elche
+90,Ath Bilbao
+91,Sevilla
+92,Barcelona
+93,Betis
+94,Ath Madrid
+95,Getafe
+96,Alaves
+97,Espanol
+98,Villarreal
+99,Mallorca
+100,Vallecano
+101,Betis
+102,Real Madrid
+103,Celta
+104,Granada
+105,Levante
+106,Elche
+107,Sevilla
+108,Valencia
+109,Barcelona
+110,Cadiz
+111,Ath Madrid
+112,Getafe
+113,Sociedad
+114,Vallecano
+115,Levante
+116,Monaco
+117,Lyon
+118,Troyes
+119,Rennes
+120,Bordeaux
+121,Nice
+122,St Etienne
+123,Strasbourg
+124,Metz
+125,Montpellier
+126,Lorient
+127,Lille
+128,Paris SG
+129,Angers
+130,Brest
+131,Clermont
+132,Nantes
+133,Reims
+134,Lens
+135,Marseille
+136,Brest
+137,Monaco
+138,St Etienne
+139,Lyon
+140,Bordeaux
+141,Metz
+142,Montpellier
+143,Strasbourg
+144,Rennes
+145,Nantes
+146,Nice
+147,Marseille
+148,Troyes
+149,Angers
+150,Clermont
+151,Lens
+152,Strasbourg
+153,Lille
+154,Reims
+155,Lorient
+156,Paris SG
+157,Monaco
+158,Montpellier
+159,Bordeaux
+160,Brest
+161,Metz
+162,Rennes
+163,Nantes
+164,Lyon
+165,Strasbourg
+166,Lens
+167,St Etienne
+168,Nice
+169,Angers
+170,Clermont
+171,Reims
+172,Troyes
+173,Marseille
+174,Paris SG
+175,Lille
+176,Monaco
+177,Montpellier
+178,Nantes
+179,Rennes
+180,Angers
+181,Lens
+182,Lorient
+183,Lyon
+184,Metz
+185,St Etienne
+186,Strasbourg
+187,Lyon
+188,Paris SG
+189,Bordeaux
+190,Brest
+191,Reims
+192,Troyes
+193,Clermont
+194,Marseille
+195,Lens
+196,Montpellier
+197,Nice
+198,Rennes
+199,Angers
+200,Lorient
+201,Monaco
+202,Nantes
+203,Lille
+204,St Etienne
+205,Paris SG
+206,Clermont
+207,Lyon
+208,Troyes
+209,Bordeaux
+210,Brest
+211,Metz
+212,Strasbourg
+213,Montpellier
+214,Marseille
+215,St Etienne
+216,Nantes
+217,Lille
+218,Nice
+219,Lens
+220,Lorient
+221,Reims
+222,Rennes
+223,Monaco
+224,Marseille
+225,Nice
+226,Paris SG
+227,Metz
+228,Lyon
+229,Angers
+230,Bordeaux
+231,Montpellier
+232,Strasbourg
+233,Troyes
+234,Brest
+235,Clermont
+236,Brentford
+237,Man United
+238,Burnley
+239,Chelsea
+240,Everton
+241,Leicester
+242,Watford
+243,Norwich
+244,Newcastle
+245,Tottenham
+246,Liverpool
+247,Aston Villa
+248,Crystal Palace
+249,Leeds
+250,Man City
+251,Brighton
+252,Southampton
+253,Wolves
+254,Arsenal
+255,West Ham
+256,Man City
+257,Aston Villa
+258,Brighton
+259,Newcastle
+260,Norwich
+261,West Ham
+262,Liverpool
+263,Burnley
+264,Tottenham
+265,Wolves
+266,Crystal Palace
+267,Arsenal
+268,Brentford
+269,Leicester
+270,Man United
+271,Southampton
+272,Watford
+273,Chelsea
+274,Leeds
+275,Everton
+276,Newcastle
+277,Wolves
+278,Burnley
+279,Liverpool
+280,Man City
+281,Norwich
+282,Aston Villa
+283,Brighton
+284,West Ham
+285,Tottenham
+286,Chelsea
+287,Man United
+288,Everton
+289,Leeds
+290,Leicester
+291,Watford
+292,Brentford
+293,Southampton
+294,Arsenal
+295,Crystal Palace
+296,Man United
+297,Burnley
+298,Chelsea
+299,Leeds
+300,Wolves
+301,Brighton
+302,Crystal Palace
+303,Tottenham
+304,West Ham
+305,Liverpool
+306,Watford
+307,Aston Villa
+308,Leicester
+309,Man City
+310,Norwich
+311,Southampton
+312,Brentford
+313,Everton
+314,Newcastle
+315,Arsenal
+316,Arsenal
+317,Chelsea
+318,Crystal Palace
+319,Everton
+320,Leeds
+321,Southampton
+322,Brighton
+323,Brentford
+324,West Ham
+325,Man United
+326,Leicester
+327,Burnley
+328,Liverpool
+329,Man City
+330,Newcastle
+331,Watford
+332,Tottenham
+333,Norwich
+334,Aston Villa
+335,Wolves
+336,M'gladbach
+337,Augsburg
+338,Bielefeld
+339,Stuttgart
+340,Union Berlin
+341,Wolfsburg
+342,Dortmund
+343,Mainz
+344,FC Koln
+345,RB Leipzig
+346,Bochum
+347,Ein Frankfurt
+348,Freiburg
+349,Greuther Furth
+350,Hertha
+351,Leverkusen
+352,Hoffenheim
+353,Bayern Munich
+354,Dortmund
+355,Augsburg
+356,Bielefeld
+357,FC Koln
+358,Mainz
+359,Stuttgart
+360,Bayern Munich
+361,Union Berlin
+362,Wolfsburg
+363,Freiburg
+364,Greuther Furth
+365,Hoffenheim
+366,Leverkusen
+367,Union Berlin
+368,RB Leipzig
+369,Ein Frankfurt
+370,Bochum
+371,M'gladbach
+372,Hertha
+373,Augsburg
+374,Bayern Munich
+375,Bielefeld
+376,Mainz
+377,FC Koln
+378,Stuttgart
+379,Dortmund
+380,Wolfsburg
+381,Greuther Furth
+382,Ein Frankfurt
+383,Hoffenheim
+384,Leverkusen
+385,RB Leipzig
+386,Union Berlin
+387,M'gladbach
+388,Bochum
+389,Freiburg
+390,FC Koln
+391,Dortmund
+392,Hertha
+393,Stuttgart
+394,Wolfsburg
+395,RB Leipzig
+396,Mainz
+397,Bayern Munich
+398,Bielefeld
+399,Hoffenheim
+400,Dortmund
+401,Ein Frankfurt
+402,Freiburg
+403,Greuther Furth
+404,Union Berlin
+405,M'gladbach
+406,Leverkusen
+407,Augsburg
+408,Mainz
+409,Bayern Munich
+410,Bielefeld
+411,RB Leipzig
+412,Wolfsburg
+413,Hertha
+414,FC Koln
+415,Stuttgart
+416,Bochum
+417,Hoffenheim
+418,Bielefeld
+419,Dortmund
+420,Freiburg
+421,Leverkusen
+422,Union Berlin
+423,Ein Frankfurt
+424,Augsburg
+425,M'gladbach
+426,Inter
+427,Verona
+428,Empoli
+429,Torino
+430,Bologna
+431,Udinese
+432,Napoli
+433,Roma
+434,Cagliari
+435,Sampdoria
+436,Udinese
+437,Verona
+438,Atalanta
+439,Lazio
+440,Fiorentina
+441,Juventus
+442,Genoa
+443,Sassuolo
+444,Milan
+445,Salernitana
+446,Empoli
+447,Napoli
+448,Atalanta
+449,Sampdoria
+450,Cagliari
+451,Spezia
+452,Torino
+453,Milan
+454,Roma
+455,Bologna
+456,Sassuolo
+457,Genoa
+458,Inter
+459,Salernitana
+460,Empoli
+461,Venezia
+462,Lazio
+463,Verona
+464,Juventus
+465,Udinese
+466,Bologna
+467,Atalanta
+468,Fiorentina
+469,Salernitana
+470,Spezia
+471,Cagliari
+472,Milan
+473,Sampdoria
+474,Torino
+475,Roma
+476,Spezia
+477,Inter
+478,Genoa
+479,Juventus
+480,Empoli
+481,Sassuolo
+482,Udinese
+483,Lazio
+484,Napoli
+485,Venezia
+486,Cagliari
+487,Salernitana
+488,Torino
+489,Sassuolo
+490,Bologna
+491,Sampdoria
+492,Verona
+493,Fiorentina
+494,Roma
+495,Atalanta
+496,Spezia
+497,Lazio
+498,Milan
+499,Cagliari
+500,Empoli
+501,Genoa
+502,Udinese
+503,Napoli
+504,Juventus
+505,Venezia
+506,Torino
+507,Sampdoria
+508,Salernitana
+509,Sassuolo
+510,Bologna
+511,Atalanta
+512,Fiorentina
+513,Verona
+514,Roma
+515,Inter
+516,Spezia
+517,Venezia
+518,Milan
+519,Juventus
+520,Sampdoria
+521,Udinese
+522,Cagliari
+523,Empoli
+524,Lazio
+525,Napoli
+526,Atalanta
+527,Verona
+528,Torino
+529,Inter
+530,Fiorentina
+531,Genoa
+532,Sassuolo
+533,Salernitana
+534,Roma
+535,Bologna
+536,Standard
+537,Oud-Heverlee Leuven
+538,Kortrijk
+539,Oostende
+540,Mechelen
+541,Club Brugge
+542,Anderlecht
+543,St Truiden
+544,Beerschot VA
+545,Genk
+546,Charleroi
+547,Cercle Brugge
+548,Seraing
+549,Eupen
+550,St. Gilloise
+551,Waregem
+552,Gent
+553,Antwerp
+554,Club Brugge
+555,Beerschot VA
+556,Mechelen
+557,St Truiden
+558,Kortrijk
+559,Standard
+560,Oud-Heverlee Leuven
+561,Anderlecht
+562,Oostende
+563,Charleroi
+564,St. Gilloise
+565,Eupen
+566,Seraing
+567,Genk
+568,Beerschot VA
+569,Gent
+570,Cercle Brugge
+571,Waregem
+572,Standard
+573,Seraing
+574,Oud-Heverlee Leuven
+575,St Truiden
+576,Waregem
+577,Club Brugge
+578,Mechelen
+579,Kortrijk
+580,Charleroi
+581,Cercle Brugge
+582,Eupen
+583,St. Gilloise
+584,Gent
+585,Antwerp
+586,Genk
+587,Oostende
+588,Club Brugge
+589,Eupen
+590,Waregem
+591,Anderlecht
+592,Gent
+593,Seraing
+594,Genk
+595,Oud-Heverlee Leuven
+596,Beerschot VA
+597,Cercle Brugge
+598,Oostende
+599,Mechelen
+600,St. Gilloise
+601,Charleroi
+602,St Truiden
+603,Antwerp
+604,Standard
+605,Kortrijk
+606,Antwerp
+607,Anderlecht
+608,Club Brugge
+609,Beerschot VA
+610,Waregem
+611,Standard
+612,St. Gilloise
+613,Gent
+614,Oostende
+615,Charleroi
+616,Genk
+617,Mechelen
+618,Kortrijk
+619,Cercle Brugge
+620,St Truiden
+621,Oud-Heverlee Leuven
+622,Anderlecht
+623,Seraing
+624,Antwerp
+625,Eupen
+626,Club Brugge
+627,St. Gilloise
+628,Oostende
+629,Waregem
+630,Standard
+631,St Truiden
+632,Beerschot VA
+633,Charleroi
+634,Gent
+635,Seraing
+636,Cercle Brugge
+637,Kortrijk
+638,Mechelen
+639,Eupen
+640,Antwerp
+641,Anderlecht
+642,Genk
+643,Oud-Heverlee Leuven
+644,Oostende
+645,Charleroi
+646,Beerschot VA
+647,Standard
+648,St Truiden
+649,Waregem
+650,Cercle Brugge
+651,Anderlecht
+652,Gent
+653,Go Ahead Eagles
+654,Waalwijk
+655,Heracles
+656,For Sittard
+657,Ajax
+658,Cambuur
+659,Utrecht
+660,Zwolle
+661,Willem II
+662,Nijmegen
+663,Heerenveen
+664,PSV Eindhoven
+665,Sparta Rotterdam
+666,Groningen
+667,Twente
+668,Feyenoord
+669,Vitesse
+670,For Sittard
+671,Cambuur
+672,Go Ahead Eagles
+673,PSV Eindhoven
+674,Willem II
+675,Utrecht
+676,Ajax
+677,Heracles
+678,Heerenveen
+679,Twente
+680,Cambuur
+681,Zwolle
+682,AZ Alkmaar
+683,Nijmegen
+684,Groningen
+685,Sparta Rotterdam
+686,Waalwijk
+687,Sparta Rotterdam
+688,Heerenveen
+689,Willem II
+690,Ajax
+691,Utrecht
+692,Go Ahead Eagles
+693,PSV Eindhoven
+694,Heracles
+695,Vitesse
+696,For Sittard
+697,Waalwijk
+698,Go Ahead Eagles
+699,Nijmegen
+700,Groningen
+701,Feyenoord
+702,Zwolle
+703,Cambuur
+704,Twente
+705,Willem II
+706,Ajax
+707,Vitesse
+708,Feyenoord
+709,Utrecht
+710,Sparta Rotterdam
+711,AZ Alkmaar
+712,Heerenveen
+713,Heracles
+714,Groningen
+715,Waalwijk
+716,Heracles
+717,Zwolle
+718,For Sittard
+719,Ajax
+720,Cambuur
+721,Vitesse
+722,PSV Eindhoven
+723,Feyenoord
+724,Go Ahead Eagles
+725,Heerenveen
+726,For Sittard
+727,PSV Eindhoven
+728,AZ Alkmaar
+729,Nijmegen
+730,Sparta Rotterdam
+731,Twente
+732,Willem II
+733,Utrecht
+734,Zwolle
+735,Waalwijk
+736,Twente
+737,Cambuur
+738,Vitesse
+739,Ajax
+740,Groningen
+741,PSV Eindhoven
+742,Heracles
+743,Heerenveen
+744,AZ Alkmaar
+745,Sparta Rotterdam
+746,Nijmegen
+747,Utrecht
+748,Waalwijk
+749,Go Ahead Eagles
+750,Sp Lisbon
+751,Arouca
+752,Moreirense
+753,Maritimo
+754,Guimaraes
+755,Tondela
+756,Porto
+757,Pacos Ferreira
+758,Gil Vicente
+759,Estoril
+760,Vizela
+761,Benfica
+762,Sp Braga
+763,Portimonense
+764,Famalicao
+765,Santa Clara
+766,Boavista
+767,Belenenses
+768,Arouca
+769,Moreirense
+770,Gil Vicente
+771,Sp Lisbon
+772,Tondela
+773,Maritimo
+774,Guimaraes
+775,Pacos Ferreira
+776,Boavista
+777,Belenenses
+778,Estoril
+779,Vizela
+780,Porto
+781,Famalicao
+782,Benfica
+783,Sp Braga
+784,Portimonense
+785,Santa Clara
+786,Pacos Ferreira
+787,Santa Clara
+788,Sp Lisbon
+789,Moreirense
+790,Boavista
+791,Gil Vicente
+792,Guimaraes
+793,Maritimo
+794,Tondela
+795,Portimonense
+796,Famalicao
+797,Belenenses
+798,Arouca
+799,Vizela
+800,Porto
+801,Estoril
+802,Benfica
+803,Sp Braga
+804,Sp Lisbon
+805,Gil Vicente
+806,Moreirense
+807,Guimaraes
+808,Tondela
+809,Santa Clara
+810,Portimonense
+811,Pacos Ferreira
+812,Boavista
+813,Maritimo
+814,Famalicao
+815,Vizela
+816,Porto
+817,Arouca
+818,Belenenses
+819,Benfica
+820,Estoril
+821,Sp Braga
+822,Guimaraes
+823,Santa Clara
+824,Tondela
+825,Sp Lisbon
+826,Pacos Ferreira
+827,Vizela
+828,Portimonense
+829,Gil Vicente
+830,Boavista
+831,Arouca
+832,Porto
+833,Estoril
+834,Sp Lisbon
+835,Maritimo
+836,Belenenses
+837,Famalicao
+838,Sp Braga
+839,Moreirense
+840,Panetolikos
+841,Panathinaikos
+842,Volos NFC
+843,PAOK
+844,AEK
+845,Olympiakos
+846,Aris
+847,Ionikos
+848,Giannina
+849,Apollon
+850,Atromitos
+851,OFI Crete
+852,Asteras Tripolis
+853,Lamia
+854,OFI Crete
+855,Olympiakos
+856,Panetolikos
+857,AEK
+858,Aris
+859,Ionikos
+860,Volos NFC
+861,Asteras Tripolis
+862,Panathinaikos
+863,Lamia
+864,PAOK
+865,Giannina
+866,Apollon
+867,Atromitos
+868,Volos NFC
+869,Aris
+870,Atromitos
+871,Panetolikos
+872,OFI Crete
+873,Ionikos
+874,Olympiakos
+875,Apollon
+876,Panathinaikos
+877,Panetolikos
+878,PAOK
+879,AEK
+880,Giannina
+881,Lamia
+882,Atromitos
+883,Apollon
+884,Asteras Tripolis
+885,Aris
+886,Volos NFC
+887,OFI Crete
+888,Olympiakos
+889,Panetolikos
+890,PAOK
+891,Lamia
+892,Panathinaikos
+893,AEK
+894,Giannina
+895,Ionikos
+896,Molde
+897,Honefoss
+898,Odd
+899,Stabaek
+900,Tromso
+901,Valerenga
+902,Rosenborg
+903,Sandnes
+904,Brann
+905,Stromsgodset
+906,Fredrikstad
+907,Haugesund
+908,Sogndal
+909,Viking
+910,Lillestrom
+911,Aalesund
+912,Odd
+913,Honefoss
+914,Rosenborg
+915,Sandnes
+916,Stromsgodset
+917,Tromso
+918,Molde
+919,Valerenga
+920,Fredrikstad
+921,Aalesund
+922,Brann
+923,Sogndal
+924,Tromso
+925,Lillestrom
+926,Stabaek
+927,Viking
+928,Valerenga
+929,Haugesund
+930,Honefoss
+931,Odd
+932,Sandnes
+933,Stromsgodset
+934,Rosenborg
+935,Molde
+936,Aalesund
+937,Lillestrom
+938,Fredrikstad
+939,Stabaek
+940,Tromso
+941,Viking
+942,Sogndal
+943,Brann
+944,Rosenborg
+945,Odd
+946,Haugesund
+947,Sandnes
+948,Stromsgodset
+949,Valerenga
+950,Molde
+951,Brann
+952,Stabaek
+953,Tromso
+954,Aalesund
+955,Fredrikstad
+956,Honefoss
+957,Sandnes
+958,Sogndal
+959,Lillestrom
+960,Haugesund
+961,Molde
+962,Rosenborg
+963,Stromsgodset
+964,Viking
+965,Brann
+966,Odd
+967,Fredrikstad
+968,Honefoss
+969,Aalesund
+970,Lillestrom
+971,Sandnes
+972,Stabaek
+973,Tromso
+974,Rosenborg
+975,Brann
+976,Sogndal
+977,Stromsgodset
+978,Viking
+979,Valerenga
+980,Haugesund
+981,Lillestrom
+982,Molde
+983,Honefoss
+984,Sandnes
+985,Stabaek
+986,Tromso
+987,Fredrikstad
+988,Valerenga
+989,Aalesund
+990,Rosenborg
+991,Sogndal
+992,Brann
+993,Haugesund
+994,Lillestrom
+995,Molde
+996,Stromsgodset
+997,Viking
+998,Valerenga
+999,Honefoss
+1000,Tromso
+1001,Aalesund
+1002,Odd
+1003,Sandnes
+1004,Stabaek
+1005,Rosenborg
+1006,Fredrikstad
+1007,Odd
+1008,Lillestrom
+1009,Valerenga
+1010,Aalesund
+1011,Brann
+1012,Sogndal
+1013,Viking
+1014,Haugesund
+1015,Stromsgodset
+1016,Haugesund
+1017,Molde
+1018,Brann
+1019,Fredrikstad
+1020,Odd
+1021,Stabaek
+1022,Rosenborg
+1023,Stromsgodset
+1024,Lillestrom
+1025,Aalesund
+1026,Honefoss
+1027,Sogndal
+1028,Viking
+1029,Tromso
+1030,Valerenga
+1031,Haugesund
+1032,Honefoss
+1033,Molde
+1034,Fredrikstad
+1035,Odd
+1036,Sandnes
+1037,Rosenborg
+1038,Stabaek
+1039,Valerenga
+1040,Brann
+1041,Lillestrom
+1042,Sogndal
+1043,Stabaek
+1044,Tromso
+1045,Viking
+1046,Aalesund
+1047,Odd
+1048,Stromsgodset
+1049,Haugesund
+1050,Honefoss
+1051,Molde
+1052,Sandnes
+1053,Rosenborg
+1054,Fredrikstad
+1055,Valerenga
+1056,Lillestrom
+1057,Aalesund
+1058,Haugesund
+1059,Sogndal
+1060,Viking
+1061,Brann
+1062,Stabaek
+1063,Stromsgodset
+1064,Molde
+1065,Fredrikstad
+1066,Honefoss
+1067,Odd
+1068,Sandnes
+1069,Rosenborg
+1070,Tromso
+1071,Viking
+1072,Aalesund
+1073,Haugesund
+1074,Odd
+1075,Sogndal
+1076,Stabaek
+1077,Brann
+1078,Valerenga
+1079,Rosenborg
+1080,Lillestrom
+1081,Honefoss
+1082,Molde
+1083,Sandnes
+1084,Tromso
+1085,Stromsgodset
+1086,Fredrikstad
+1087,Valerenga
+1088,Viking
+1089,Haugesund
+1090,Molde
+1091,Sogndal
+1092,Stabaek
+1093,Odd
+1094,Brann
+1095,Rosenborg
+1096,Lillestrom
+1097,Aalesund
+1098,Honefoss
+1099,Tromso
+1100,Viking
+1101,Stromsgodset
+1102,Fredrikstad
+1103,Haugesund
+1104,Sandnes
+1105,Odd
+1106,Sogndal
+1107,Stabaek
+1108,Valerenga
+1109,Molde
+1110,Brann
+1111,Fredrikstad
+1112,Tromso
+1113,Aalesund
+1114,Honefoss
+1115,Lillestrom
+1116,Viking
+1117,Stromsgodset
+1118,Sogndal
+1119,Sandnes
+1120,Brann
+1121,Haugesund
+1122,Molde
+1123,Odd
+1124,Rosenborg
+1125,Sandnes
+1126,Stabaek
+1127,Valerenga
+1128,Aalesund
+1129,Fredrikstad
+1130,Honefoss
+1131,Lillestrom
+1132,Sogndal
+1133,Stromsgodset
+1134,Tromso
+1135,Viking
+1136,Ull/Kisa
+1137,Sandnes
+1138,Viking
+1139,Aalesund
+1140,Brann
+1141,Lillestrom
+1142,Sogndal
+1143,Start
+1144,Stromsgodset
+1145,Odd
+1146,Tromso
+1147,Rosenborg
+1148,Sandnes
+1149,Sarpsborg 08
+1150,Valerenga
+1151,Honefoss
+1152,Molde
+1153,Odd
+1154,Start
+1155,Brann
+1156,Stromsgodset
+1157,Aalesund
+1158,Lillestrom
+1159,Sandnes
+1160,Sogndal
+1161,Rosenborg
+1162,Molde
+1163,Valerenga
+1164,Sarpsborg 08
+1165,Honefoss
+1166,Tromso
+1167,Viking
+1168,Lillestrom
+1169,Start
+1170,Odd
+1171,Brann
+1172,Aalesund
+1173,Sandnes
+1174,Sogndal
+1175,Stromsgodset
+1176,Haugesund
+1177,Haugesund
+1178,Brann
+1179,Lillestrom
+1180,Valerenga
+1181,Viking
+1182,Rosenborg
+1183,Sarpsborg 08
+1184,Tromso
+1185,Molde
+1186,Sandnes
+1187,Aalesund
+1188,Odd
+1189,Haugesund
+1190,Honefoss
+1191,Stromsgodset
+1192,Sogndal
+1193,Start
+1194,Rosenborg
+1195,Valerenga
+1196,Viking
+1197,Lillestrom
+1198,Molde
+1199,Odd
+1200,Sarpsborg 08
+1201,Brann
+1202,Haugesund
+1203,Sandnes
+1204,Sogndal
+1205,Stromsgodset
+1206,Tromso
+1207,Start
+1208,Aalesund
+1209,Honefoss
+1210,Brann
+1211,Lillestrom
+1212,Molde
+1213,Stromsgodset
+1214,Valerenga
+1215,Viking
+1216,Rosenborg
+1217,Odd
+1218,Start
+1219,Aalesund
+1220,Haugesund
+1221,Honefoss
+1222,Rosenborg
+1223,Tromso
+1224,Sarpsborg 08
+1225,Sandnes
+1226,Stromsgodset
+1227,Molde
+1228,Valerenga
+1229,Lillestrom
+1230,Odd
+1231,Sogndal
+1232,Viking
+1233,Brann
+1234,Sarpsborg 08
+1235,Valerenga
+1236,Rosenborg
+1237,Tromso
+1238,Aalesund
+1239,Honefoss
+1240,Sandnes
+1241,Haugesund
+1242,Brann
+1243,Molde
+1244,Stromsgodset
+1245,Sogndal
+1246,Lillestrom
+1247,Odd
+1248,Start
+1249,Viking
+1250,Aalesund
+1251,Haugesund
+1252,Tromso
+1253,Rosenborg
+1254,Sandnes
+1255,Sarpsborg 08
+1256,Valerenga
+1257,Honefoss
+1258,Honefoss
+1259,Molde
+1260,Start
+1261,Haugesund
+1262,Sandnes
+1263,Sarpsborg 08
+1264,Tromso
+1265,Rosenborg
+1266,Aalesund
+1267,Lillestrom
+1268,Stromsgodset
+1269,Brann
+1270,Odd
+1271,Sogndal
+1272,Viking
+1273,Valerenga
+1274,Molde
+1275,Start
+1276,Viking
+1277,Sarpsborg 08
+1278,Haugesund
+1279,Honefoss
+1280,Rosenborg
+1281,Tromso
+1282,Brann
+1283,Sogndal
+1284,Odd
+1285,Aalesund
+1286,Haugesund
+1287,Sandnes
+1288,Stromsgodset
+1289,Valerenga
+1290,Molde
+1291,Rosenborg
+1292,Start
+1293,Honefoss
+1294,Sarpsborg 08
+1295,Tromso
+1296,Viking
+1297,Lillestrom
+1298,Sogndal
+1299,Odd
+1300,Aalesund
+1301,Stromsgodset
+1302,Haugesund
+1303,Honefoss
+1304,Valerenga
+1305,Sandnes
+1306,Brann
+1307,Lillestrom
+1308,Rosenborg
+1309,Start
+1310,Sarpsborg 08
+1311,Tromso
+1312,Viking
+1313,Molde
+1314,Aalesund
+1315,Sogndal
+1316,Haugesund
+1317,Stromsgodset
+1318,Honefoss
+1319,Sandnes
+1320,Valerenga
+1321,Tromso
+1322,Rosenborg
+1323,Lillestrom
+1324,Brann
+1325,Sarpsborg 08
+1326,Molde
+1327,Odd
+1328,Start
+1329,Viking
+1330,Sogndal
+1331,Honefoss
+1332,Aalesund
+1333,Haugesund
+1334,Sandnes
+1335,Tromso
+1336,Valerenga
+1337,Sarpsborg 08
+1338,Brann
+1339,Viking
+1340,Stromsgodset
+1341,Start
+1342,Lillestrom
+1343,Molde
+1344,Odd
+1345,Rosenborg
+1346,Sarpsborg 08
+1347,Tromso
+1348,Start
+1349,Honefoss
+1350,Haugesund
+1351,Sandnes
+1352,Sogndal
+1353,Aalesund
+1354,Viking
+1355,Valerenga
+1356,Molde
+1357,Lillestrom
+1358,Brann
+1359,Odd
+1360,Sogndal
+1361,Stromsgodset
+1362,Aalesund
+1363,Haugesund
+1364,Honefoss
+1365,Rosenborg
+1366,Sandnes
+1367,Sarpsborg 08
+1368,Start
+1369,Tromso
+1370,Brann
+1371,Lillestrom
+1372,Molde
+1373,Odd
+1374,Sogndal
+1375,Stromsgodset
+1376,Valerenga
+1377,Viking
+1378,Sarpsborg 08
+1379,Ranheim
+1380,Molde
+1381,Haugesund
+1382,Rosenborg
+1383,Bodo/Glimt
+1384,Sandnes
+1385,Stabaek
+1386,Stromsgodset
+1387,Sarpsborg 08
+1388,Viking
+1389,Odd
+1390,Aalesund
+1391,Start
+1392,Lillestrom
+1393,Sogndal
+1394,Valerenga
+1395,Brann
+1396,Sandnes
+1397,Lillestrom
+1398,Haugesund
+1399,Stabaek
+1400,Bodo/Glimt
+1401,Sarpsborg 08
+1402,Stromsgodset
+1403,Rosenborg
+1404,Aalesund
+1405,Valerenga
+1406,Viking
+1407,Brann
+1408,Molde
+1409,Odd
+1410,Sogndal
+1411,Bodo/Glimt
+1412,Stromsgodset
+1413,Haugesund
+1414,Rosenborg
+1415,Sandnes
+1416,Stabaek
+1417,Start
+1418,Lillestrom
+1419,Sarpsborg 08
+1420,Brann
+1421,Sandnes
+1422,Aalesund
+1423,Bodo/Glimt
+1424,Molde
+1425,Odd
+1426,Valerenga
+1427,Sogndal
+1428,Haugesund
+1429,Sarpsborg 08
+1430,Lillestrom
+1431,Rosenborg
+1432,Stromsgodset
+1433,Start
+1434,Stabaek
+1435,Viking
+1436,Bodo/Glimt
+1437,Aalesund
+1438,Odd
+1439,Sogndal
+1440,Stabaek
+1441,Valerenga
+1442,Molde
+1443,Sandnes
+1444,Aalesund
+1445,Brann
+1446,Haugesund
+1447,Lillestrom
+1448,Start
+1449,Viking
+1450,Rosenborg
+1451,Stromsgodset
+1452,Valerenga
+1453,Sarpsborg 08
+1454,Bodo/Glimt
+1455,Molde
+1456,Odd
+1457,Sandnes
+1458,Sogndal
+1459,Stabaek
+1460,Haugesund
+1461,Lillestrom
+1462,Stromsgodset
+1463,Aalesund
+1464,Sogndal
+1465,Start
+1466,Viking
+1467,Brann
+1468,Sarpsborg 08
+1469,Stromsgodset
+1470,Valerenga
+1471,Molde
+1472,Odd
+1473,Sandnes
+1474,Stabaek
+1475,Rosenborg
+1476,Bodo/Glimt
+1477,Brann
+1478,Sogndal
+1479,Start
+1480,Aalesund
+1481,Lillestrom
+1482,Haugesund
+1483,Viking
+1484,Molde
+1485,Stromsgodset
+1486,Sarpsborg 08
+1487,Stabaek
+1488,Start
+1489,Viking
+1490,Rosenborg
+1491,Odd
+1492,Aalesund
+1493,Sogndal
+1494,Bodo/Glimt
+1495,Lillestrom
+1496,Sandnes
+1497,Brann
+1498,Haugesund
+1499,Valerenga
+1500,Stabaek
+1501,Start
+1502,Stromsgodset
+1503,Molde
+1504,Odd
+1505,Rosenborg
+1506,Viking
+1507,Sarpsborg 08
+1508,Aalesund
+1509,Sandnes
+1510,Haugesund
+1511,Bodo/Glimt
+1512,Molde
+1513,Sogndal
+1514,Brann
+1515,Valerenga
+1516,Lillestrom
+1517,Stromsgodset
+1518,Viking
+1519,Odd
+1520,Aalesund
+1521,Sarpsborg 08
+1522,Start
+1523,Stabaek
+1524,Brann
+1525,Valerenga
+1526,Odd
+1527,Molde
+1528,Rosenborg
+1529,Sandnes
+1530,Sogndal
+1531,Haugesund
+1532,Start
+1533,Viking
+1534,Aalesund
+1535,Stabaek
+1536,Bodo/Glimt
+1537,Brann
+1538,Sarpsborg 08
+1539,Lillestrom
+1540,Sandnes
+1541,Stromsgodset
+1542,Valerenga
+1543,Odd
+1544,Haugesund
+1545,Rosenborg
+1546,Sogndal
+1547,Molde
+1548,Sarpsborg 08
+1549,Aalesund
+1550,Bodo/Glimt
+1551,Lillestrom
+1552,Stabaek
+1553,Start
+1554,Viking
+1555,Brann
+1556,Rosenborg
+1557,Odd
+1558,Stromsgodset
+1559,Sandnes
+1560,Sogndal
+1561,Start
+1562,Valerenga
+1563,Molde
+1564,Brann
+1565,Bodo/Glimt
+1566,Valerenga
+1567,Viking
+1568,Aalesund
+1569,Lillestrom
+1570,Sarpsborg 08
+1571,Haugesund
+1572,Sandnes
+1573,Molde
+1574,Sogndal
+1575,Stromsgodset
+1576,Stabaek
+1577,Odd
+1578,Start
+1579,Rosenborg
+1580,Lillestrom
+1581,Aalesund
+1582,Viking
+1583,Sarpsborg 08
+1584,Bodo/Glimt
+1585,Haugesund
+1586,Valerenga
+1587,Brann
+1588,Brann
+1589,Start
+1590,Molde
+1591,Stromsgodset
+1592,Odd
+1593,Sandnes
+1594,Stabaek
+1595,Rosenborg
+1596,Valerenga
+1597,Haugesund
+1598,Rosenborg
+1599,Sarpsborg 08
+1600,Lillestrom
+1601,Sogndal
+1602,Viking
+1603,Bodo/Glimt
+1604,Aalesund
+1605,Brann
+1606,Lillestrom
+1607,Odd
+1608,Stabaek
+1609,Start
+1610,Stromsgodset
+1611,Viking
+1612,Bodo/Glimt
+1613,Haugesund
+1614,Molde
+1615,Rosenborg
+1616,Sandnes
+1617,Sarpsborg 08
+1618,Sogndal
+1619,Valerenga
+1620,Brann
+1621,Mjondalen
+1622,Mjondalen
+1623,Rosenborg
+1624,Sandefjord
+1625,Stabaek
+1626,Tromso
+1627,Valerenga
+1628,Lillestrom
+1629,Molde
+1630,Sarpsborg 08
+1631,Bodo/Glimt
+1632,Stromsgodset
+1633,Aalesund
+1634,Haugesund
+1635,Odd
+1636,Start
+1637,Viking
+1638,Valerenga
+1639,Mjondalen
+1640,Rosenborg
+1641,Bodo/Glimt
+1642,Molde
+1643,Sandefjord
+1644,Stabaek
+1645,Tromso
+1646,Start
+1647,Odd
+1648,Viking
+1649,Aalesund
+1650,Haugesund
+1651,Lillestrom
+1652,Sarpsborg 08
+1653,Stromsgodset
+1654,Molde
+1655,Sarpsborg 08
+1656,Bodo/Glimt
+1657,Sandefjord
+1658,Tromso
+1659,Valerenga
+1660,Mjondalen
+1661,Rosenborg
+1662,Stromsgodset
+1663,Aalesund
+1664,Start
+1665,Haugesund
+1666,Lillestrom
+1667,Stabaek
+1668,Odd
+1669,Viking
+1670,Mjondalen
+1671,Rosenborg
+1672,Valerenga
+1673,Sandefjord
+1674,Bodo/Glimt
+1675,Sarpsborg 08
+1676,Viking
+1677,Molde
+1678,Mjondalen
+1679,Tromso
+1680,Aalesund
+1681,Haugesund
+1682,Lillestrom
+1683,Odd
+1684,Stabaek
+1685,Start
+1686,Bodo/Glimt
+1687,Valerenga
+1688,Molde
+1689,Odd
+1690,Rosenborg
+1691,Sarpsborg 08
+1692,Stromsgodset
+1693,Viking
+1694,Mjondalen
+1695,Haugesund
+1696,Lillestrom
+1697,Tromso
+1698,Aalesund
+1699,Stabaek
+1700,Sandefjord
+1701,Start
+1702,Odd
+1703,Haugesund
+1704,Molde
+1705,Stromsgodset
+1706,Bodo/Glimt
+1707,Sarpsborg 08
+1708,Viking
+1709,Rosenborg
+1710,Tromso
+1711,Valerenga
+1712,Sandefjord
+1713,Aalesund
+1714,Mjondalen
+1715,Stabaek
+1716,Start
+1717,Lillestrom
+1718,Odd
+1719,Sandefjord
+1720,Molde
+1721,Bodo/Glimt
+1722,Aalesund
+1723,Haugesund
+1724,Stromsgodset
+1725,Sarpsborg 08
+1726,Start
+1727,Rosenborg
+1728,Stabaek
+1729,Viking
+1730,Lillestrom
+1731,Mjondalen
+1732,Tromso
+1733,Valerenga
+1734,Sarpsborg 08
+1735,Start
+1736,Haugesund
+1737,Stromsgodset
+1738,Aalesund
+1739,Odd
+1740,Sandefjord
+1741,Bodo/Glimt
+1742,Molde
+1743,Viking
+1744,Valerenga
+1745,Stabaek
+1746,Mjondalen
+1747,Rosenborg
+1748,Tromso
+1749,Lillestrom
+1750,Molde
+1751,Start
+1752,Haugesund
+1753,Bodo/Glimt
+1754,Odd
+1755,Sarpsborg 08
+1756,Sandefjord
+1757,Valerenga
+1758,Viking
+1759,Stabaek
+1760,Mjondalen
+1761,Aalesund
+1762,Lillestrom
+1763,Tromso
+1764,Rosenborg
+1765,Sandefjord
+1766,Valerenga
+1767,Sarpsborg 08
+1768,Bodo/Glimt
+1769,Haugesund
+1770,Lillestrom
+1771,Stromsgodset
+1772,Odd
+1773,Aalesund
+1774,Molde
+1775,Viking
+1776,Start
+1777,Mjondalen
+1778,Rosenborg
+1779,Tromso
+1780,Stabaek
+1781,Lillestrom
+1782,Sandefjord
+1783,Odd
+1784,Valerenga
+1785,Haugesund
+1786,Sarpsborg 08
+1787,Stromsgodset
+1788,Rosenborg
+1789,Aalesund
+1790,Viking
+1791,Molde
+1792,Stabaek
+1793,Bodo/Glimt
+1794,Mjondalen
+1795,Start
+1796,Tromso
+1797,Stromsgodset
+1798,Sandefjord
+1799,Tromso
+1800,Lillestrom
+1801,Odd
+1802,Rosenborg
+1803,Sarpsborg 08
+1804,Valerenga
+1805,Viking
+1806,Start
+1807,Stabaek
+1808,Aalesund
+1809,Bodo/Glimt
+1810,Haugesund
+1811,Molde
+1812,Mjondalen
+1813,Stromsgodset
+1814,Valerenga
+1815,Lillestrom
+1816,Stromsgodset
+1817,Odd
+1818,Rosenborg
+1819,Sandefjord
+1820,Tromso
+1821,Stabaek
+1822,Bodo/Glimt
+1823,Sarpsborg 08
+1824,Mjondalen
+1825,Haugesund
+1826,Aalesund
+1827,Molde
+1828,Viking
+1829,Start
+1830,Stromsgodset
+1831,Sandefjord
+1832,Stabaek
+1833,Molde
+1834,Lillestrom
+1835,Rosenborg
+1836,Valerenga
+1837,Tromso
+1838,Start
+1839,Sarpsborg 08
+1840,Haugesund
+1841,Aalesund
+1842,Bodo/Glimt
+1843,Odd
+1844,Stromsgodset
+1845,Viking
+1846,Lillestrom
+1847,Mjondalen
+1848,Molde
+1849,Rosenborg
+1850,Sandefjord
+1851,Stabaek
+1852,Tromso
+1853,Valerenga
+1854,Aalesund
+1855,Bodo/Glimt
+1856,Haugesund
+1857,Odd
+1858,Sarpsborg 08
+1859,Start
+1860,Stromsgodset
+1861,Viking
+1862,Jerv
+1863,Start
+1864,Aalesund
+1865,Odd
+1866,Molde
+1867,Bodo/Glimt
+1868,Sarpsborg 08
+1869,Stromsgodset
+1870,Start
+1871,Valerenga
+1872,Tromso
+1873,Haugesund
+1874,Rosenborg
+1875,Sogndal
+1876,Brann
+1877,Lillestrom
+1878,Viking
+1879,Stabaek
+1880,Molde
+1881,Start
+1882,Valerenga
+1883,Odd
+1884,Aalesund
+1885,Bodo/Glimt
+1886,Sarpsborg 08
+1887,Stromsgodset
+1888,Sogndal
+1889,Lillestrom
+1890,Stabaek
+1891,Brann
+1892,Rosenborg
+1893,Start
+1894,Tromso
+1895,Viking
+1896,Haugesund
+1897,Stromsgodset
+1898,Rosenborg
+1899,Bodo/Glimt
+1900,Aalesund
+1901,Sarpsborg 08
+1902,Valerenga
+1903,Odd
+1904,Bodo/Glimt
+1905,Sogndal
+1906,Stabaek
+1907,Viking
+1908,Lillestrom
+1909,Molde
+1910,Start
+1911,Tromso
+1912,Stromsgodset
+1913,Brann
+1914,Sarpsborg 08
+1915,Aalesund
+1916,Odd
+1917,Rosenborg
+1918,Valerenga
+1919,Haugesund
+1920,Lillestrom
+1921,Molde
+1922,Viking
+1923,Sogndal
+1924,Start
+1925,Tromso
+1926,Stabaek
+1927,Bodo/Glimt
+1928,Viking
+1929,Stromsgodset
+1930,Brann
+1931,Odd
+1932,Aalesund
+1933,Rosenborg
+1934,Valerenga
+1935,Haugesund
+1936,Bodo/Glimt
+1937,Haugesund
+1938,Lillestrom
+1939,Molde
+1940,Sarpsborg 08
+1941,Sogndal
+1942,Stabaek
+1943,Start
+1944,Aalesund
+1945,Tromso
+1946,Brann
+1947,Odd
+1948,Rosenborg
+1949,Valerenga
+1950,Viking
+1951,Stromsgodset
+1952,Sarpsborg 08
+1953,Stabaek
+1954,Molde
+1955,Bodo/Glimt
+1956,Haugesund
+1957,Sogndal
+1958,Stromsgodset
+1959,Lillestrom
+1960,Tromso
+1961,Rosenborg
+1962,Odd
+1963,Sogndal
+1964,Brann
+1965,Start
+1966,Viking
+1967,Aalesund
+1968,Lillestrom
+1969,Haugesund
+1970,Bodo/Glimt
+1971,Valerenga
+1972,Molde
+1973,Sarpsborg 08
+1974,Stabaek
+1975,Stromsgodset
+1976,Start
+1977,Viking
+1978,Brann
+1979,Rosenborg
+1980,Tromso
+1981,Sogndal
+1982,Lillestrom
+1983,Odd
+1984,Valerenga
+1985,Haugesund
+1986,Aalesund
+1987,Stromsgodset
+1988,Bodo/Glimt
+1989,Molde
+1990,Stabaek
+1991,Sarpsborg 08
+1992,Brann
+1993,Rosenborg
+1994,Molde
+1995,Start
+1996,Odd
+1997,Sogndal
+1998,Tromso
+1999,Lillestrom
+2000,Sarpsborg 08
+2001,Aalesund
+2002,Bodo/Glimt
+2003,Haugesund
+2004,Odd
+2005,Stromsgodset
+2006,Valerenga
+2007,Tromso
+2008,Molde
+2009,Lillestrom
+2010,Stabaek
+2011,Brann
+2012,Sarpsborg 08
+2013,Start
+2014,Sogndal
+2015,Viking
+2016,Bodo/Glimt
+2017,Valerenga
+2018,Aalesund
+2019,Haugesund
+2020,Odd
+2021,Rosenborg
+2022,Stromsgodset
+2023,Viking
+2024,Valerenga
+2025,Lillestrom
+2026,Sarpsborg 08
+2027,Brann
+2028,Molde
+2029,Stabaek
+2030,Start
+2031,Tromso
+2032,Aalesund
+2033,Stromsgodset
+2034,Haugesund
+2035,Sogndal
+2036,Bodo/Glimt
+2037,Rosenborg
+2038,Viking
+2039,Odd
+2040,Start
+2041,Valerenga
+2042,Brann
+2043,Tromso
+2044,Lillestrom
+2045,Sarpsborg 08
+2046,Stabaek
+2047,Molde
+2048,Haugesund
+2049,Tromso
+2050,Viking
+2051,Sogndal
+2052,Aalesund
+2053,Bodo/Glimt
+2054,Odd
+2055,Rosenborg
+2056,Sarpsborg 08
+2057,Molde
+2058,Lillestrom
+2059,Start
+2060,Stromsgodset
+2061,Valerenga
+2062,Brann
+2063,Stabaek
+2064,Bodo/Glimt
+2065,Stabaek
+2066,Sogndal
+2067,Haugesund
+2068,Aalesund
+2069,Rosenborg
+2070,Tromso
+2071,Viking
+2072,Stromsgodset
+2073,Aalesund
+2074,Sarpsborg 08
+2075,Start
+2076,Brann
+2077,Molde
+2078,Odd
+2079,Valerenga
+2080,Viking
+2081,Stabaek
+2082,Brann
+2083,Tromso
+2084,Haugesund
+2085,Lillestrom
+2086,Rosenborg
+2087,Sogndal
+2088,Aalesund
+2089,Bodo/Glimt
+2090,Molde
+2091,Odd
+2092,Sarpsborg 08
+2093,Start
+2094,Stromsgodset
+2095,Valerenga
+2096,Brann
+2097,Haugesund
+2098,Lillestrom
+2099,Rosenborg
+2100,Sogndal
+2101,Stabaek
+2102,Tromso
+2103,Viking
+2104,Jerv
+2105,Stabaek
+2106,Kristiansund
+2107,Lillestrom
+2108,Sarpsborg 08
+2109,Stabaek
+2110,Stromsgodset
+2111,Tromso
+2112,Rosenborg
+2113,Valerenga
+2114,Aalesund
+2115,Molde
+2116,Odd
+2117,Sandefjord
+2118,Sogndal
+2119,Brann
+2120,Haugesund
+2121,Viking
+2122,Rosenborg
+2123,Lillestrom
+2124,Sarpsborg 08
+2125,Stabaek
+2126,Tromso
+2127,Valerenga
+2128,Stromsgodset
+2129,Kristiansund
+2130,Aalesund
+2131,Brann
+2132,Molde
+2133,Sandefjord
+2134,Sogndal
+2135,Stabaek
+2136,Odd
+2137,Viking
+2138,Stromsgodset
+2139,Rosenborg
+2140,Sarpsborg 08
+2141,Tromso
+2142,Valerenga
+2143,Viking
+2144,Lillestrom
+2145,Haugesund
+2146,Brann
+2147,Aalesund
+2148,Kristiansund
+2149,Sandefjord
+2150,Sogndal
+2151,Stabaek
+2152,Odd
+2153,Sarpsborg 08
+2154,Molde
+2155,Haugesund
+2156,Stromsgodset
+2157,Tromso
+2158,Valerenga
+2159,Viking
+2160,Rosenborg
+2161,Lillestrom
+2162,Aalesund
+2163,Stabaek
+2164,Kristiansund
+2165,Odd
+2166,Sandefjord
+2167,Sarpsborg 08
+2168,Sogndal
+2169,Brann
+2170,Brann
+2171,Haugesund
+2172,Lillestrom
+2173,Molde
+2174,Valerenga
+2175,Viking
+2176,Rosenborg
+2177,Stromsgodset
+2178,Rosenborg
+2179,Sogndal
+2180,Aalesund
+2181,Kristiansund
+2182,Sarpsborg 08
+2183,Tromso
+2184,Odd
+2185,Stabaek
+2186,Sandefjord
+2187,Brann
+2188,Haugesund
+2189,Kristiansund
+2190,Lillestrom
+2191,Molde
+2192,Valerenga
+2193,Stromsgodset
+2194,Tromso
+2195,Stabaek
+2196,Aalesund
+2197,Rosenborg
+2198,Sarpsborg 08
+2199,Sogndal
+2200,Viking
+2201,Odd
+2202,Kristiansund
+2203,Haugesund
+2204,Lillestrom
+2205,Molde
+2206,Sandefjord
+2207,Sogndal
+2208,Valerenga
+2209,Brann
+2210,Valerenga
+2211,Aalesund
+2212,Rosenborg
+2213,Sarpsborg 08
+2214,Stabaek
+2215,Tromso
+2216,Viking
+2217,Stromsgodset
+2218,Lillestrom
+2219,Sogndal
+2220,Haugesund
+2221,Molde
+2222,Odd
+2223,Sandefjord
+2224,Brann
+2225,Kristiansund
+2226,Rosenborg
+2227,Aalesund
+2228,Stromsgodset
+2229,Viking
+2230,Stabaek
+2231,Sarpsborg 08
+2232,Sogndal
+2233,Lillestrom
+2234,Haugesund
+2235,Molde
+2236,Odd
+2237,Sandefjord
+2238,Brann
+2239,Kristiansund
+2240,Rosenborg
+2241,Odd
+2242,Sarpsborg 08
+2243,Stabaek
+2244,Tromso
+2245,Viking
+2246,Aalesund
+2247,Stromsgodset
+2248,Sandefjord
+2249,Molde
+2250,Aalesund
+2251,Brann
+2252,Haugesund
+2253,Kristiansund
+2254,Stromsgodset
+2255,Valerenga
+2256,Lillestrom
+2257,Odd
+2258,Rosenborg
+2259,Sogndal
+2260,Stabaek
+2261,Tromso
+2262,Viking
+2263,Sarpsborg 08
+2264,Brann
+2265,Aalesund
+2266,Haugesund
+2267,Kristiansund
+2268,Sandefjord
+2269,Valerenga
+2270,Stromsgodset
+2271,Molde
+2272,Stabaek
+2273,Lillestrom
+2274,Sandefjord
+2275,Sogndal
+2276,Tromso
+2277,Viking
+2278,Rosenborg
+2279,Odd
+2280,Tromso
+2281,Haugesund
+2282,Aalesund
+2283,Kristiansund
+2284,Lillestrom
+2285,Molde
+2286,Stromsgodset
+2287,Valerenga
+2288,Sarpsborg 08
+2289,Brann
+2290,Stabaek
+2291,Odd
+2292,Sandefjord
+2293,Sogndal
+2294,Tromso
+2295,Viking
+2296,Rosenborg
+2297,Valerenga
+2298,Tromso
+2299,Stromsgodset
+2300,Haugesund
+2301,Kristiansund
+2302,Lillestrom
+2303,Valerenga
+2304,Molde
+2305,Sarpsborg 08
+2306,Aalesund
+2307,Molde
+2308,Sandefjord
+2309,Sogndal
+2310,Stabaek
+2311,Viking
+2312,Brann
+2313,Odd
+2314,Haugesund
+2315,Kristiansund
+2316,Rosenborg
+2317,Sarpsborg 08
+2318,Stromsgodset
+2319,Tromso
+2320,Valerenga
+2321,Lillestrom
+2322,Sandefjord
+2323,Molde
+2324,Brann
+2325,Haugesund
+2326,Odd
+2327,Sogndal
+2328,Viking
+2329,Aalesund
+2330,Kristiansund
+2331,Lillestrom
+2332,Rosenborg
+2333,Sarpsborg 08
+2334,Stabaek
+2335,Stromsgodset
+2336,Tromso
+2337,Valerenga
+2338,Aalesund
+2339,Brann
+2340,Haugesund
+2341,Molde
+2342,Odd
+2343,Sandefjord
+2344,Sogndal
+2345,Viking
+2346,Sogndal
+2347,Ranheim
+2348,Bodo/Glimt
+2349,Molde
+2350,Odd
+2351,Start
+2352,Stromsgodset
+2353,Sarpsborg 08
+2354,Kristiansund
+2355,Lillestrom
+2356,Rosenborg
+2357,Brann
+2358,Haugesund
+2359,Valerenga
+2360,Bodo/Glimt
+2361,Kristiansund
+2362,Molde
+2363,Ranheim
+2364,Sarpsborg 08
+2365,Start
+2366,Stromsgodset
+2367,Odd
+2368,Valerenga
+2369,Brann
+2370,Haugesund
+2371,Odd
+2372,Sandefjord
+2373,Tromso
+2374,Rosenborg
+2375,Lillestrom
+2376,Sandefjord
+2377,Tromso
+2378,Start
+2379,Molde
+2380,Ranheim
+2381,Sandefjord
+2382,Stabaek
+2383,Stromsgodset
+2384,Sarpsborg 08
+2385,Bodo/Glimt
+2386,Brann
+2387,Haugesund
+2388,Kristiansund
+2389,Lillestrom
+2390,Rosenborg
+2391,Tromso
+2392,Valerenga
+2393,Odd
+2394,Ranheim
+2395,Stabaek
+2396,Ranheim
+2397,Molde
+2398,Sandefjord
+2399,Sarpsborg 08
+2400,Start
+2401,Tromso
+2402,Stromsgodset
+2403,Stabaek
+2404,Rosenborg
+2405,Bodo/Glimt
+2406,Kristiansund
+2407,Lillestrom
+2408,Odd
+2409,Valerenga
+2410,Brann
+2411,Sarpsborg 08
+2412,Sandefjord
+2413,Start
+2414,Haugesund
+2415,Molde
+2416,Ranheim
+2417,Stromsgodset
+2418,Tromso
+2419,Stabaek
+2420,Bodo/Glimt
+2421,Brann
+2422,Kristiansund
+2423,Molde
+2424,Odd
+2425,Rosenborg
+2426,Sarpsborg 08
+2427,Valerenga
+2428,Haugesund
+2429,Kristiansund
+2430,Ranheim
+2431,Sandefjord
+2432,Stabaek
+2433,Start
+2434,Tromso
+2435,Lillestrom
+2436,Valerenga
+2437,Bodo/Glimt
+2438,Haugesund
+2439,Molde
+2440,Odd
+2441,Stromsgodset
+2442,Rosenborg
+2443,Sarpsborg 08
+2444,Kristiansund
+2445,Lillestrom
+2446,Ranheim
+2447,Sandefjord
+2448,Stabaek
+2449,Start
+2450,Brann
+2451,Tromso
+2452,Molde
+2453,Bodo/Glimt
+2454,Haugesund
+2455,Sarpsborg 08
+2456,Start
+2457,Stromsgodset
+2458,Rosenborg
+2459,Odd
+2460,Valerenga
+2461,Brann
+2462,Kristiansund
+2463,Ranheim
+2464,Sandefjord
+2465,Tromso
+2466,Stabaek
+2467,Lillestrom
+2468,Rosenborg
+2469,Bodo/Glimt
+2470,Haugesund
+2471,Odd
+2472,Sarpsborg 08
+2473,Start
+2474,Molde
+2475,Stromsgodset
+2476,Ranheim
+2477,Kristiansund
+2478,Stabaek
+2479,Stromsgodset
+2480,Tromso
+2481,Valerenga
+2482,Lillestrom
+2483,Brann
+2484,Sandefjord
+2485,Bodo/Glimt
+2486,Molde
+2487,Rosenborg
+2488,Sarpsborg 08
+2489,Start
+2490,Odd
+2491,Haugesund
+2492,Brann
+2493,Kristiansund
+2494,Lillestrom
+2495,Ranheim
+2496,Stabaek
+2497,Stromsgodset
+2498,Valerenga
+2499,Bodo/Glimt
+2500,Tromso
+2501,Haugesund
+2502,Molde
+2503,Rosenborg
+2504,Sandefjord
+2505,Sarpsborg 08
+2506,Valerenga
+2507,Start
+2508,Stromsgodset
+2509,Stabaek
+2510,Bodo/Glimt
+2511,Brann
+2512,Kristiansund
+2513,Odd
+2514,Rosenborg
+2515,Lillestrom
+2516,Haugesund
+2517,Ranheim
+2518,Sandefjord
+2519,Sarpsborg 08
+2520,Start
+2521,Tromso
+2522,Valerenga
+2523,Molde
+2524,Odd
+2525,Bodo/Glimt
+2526,Brann
+2527,Kristiansund
+2528,Stabaek
+2529,Stromsgodset
+2530,Rosenborg
+2531,Lillestrom
+2532,Sandefjord
+2533,Haugesund
+2534,Lillestrom
+2535,Ranheim
+2536,Sarpsborg 08
+2537,Valerenga
+2538,Molde
+2539,Tromso
+2540,Stabaek
+2541,Stromsgodset
+2542,Bodo/Glimt
+2543,Kristiansund
+2544,Odd
+2545,Rosenborg
+2546,Start
+2547,Brann
+2548,Molde
+2549,Sandefjord
+2550,Haugesund
+2551,Lillestrom
+2552,Ranheim
+2553,Tromso
+2554,Valerenga
+2555,Stabaek
+2556,Stromsgodset
+2557,Bodo/Glimt
+2558,Kristiansund
+2559,Odd
+2560,Ranheim
+2561,Sarpsborg 08
+2562,Brann
+2563,Start
+2564,Stabaek
+2565,Haugesund
+2566,Rosenborg
+2567,Sandefjord
+2568,Tromso
+2569,Valerenga
+2570,Brann
+2571,Lillestrom
+2572,Bodo/Glimt
+2573,Kristiansund
+2574,Molde
+2575,Odd
+2576,Ranheim
+2577,Sarpsborg 08
+2578,Start
+2579,Stromsgodset
+2580,Brann
+2581,Haugesund
+2582,Lillestrom
+2583,Rosenborg
+2584,Sandefjord
+2585,Stabaek
+2586,Tromso
+2587,Valerenga
+2588,Aalesund
+2589,Odd
+2590,Valerenga
+2591,Ranheim
+2592,Sarpsborg 08
+2593,Stromsgodset
+2594,Viking
+2595,Bodo/Glimt
+2596,Stabaek
+2597,Mjondalen
+2598,Haugesund
+2599,Kristiansund
+2600,Lillestrom
+2601,Molde
+2602,Tromso
+2603,Brann
+2604,Rosenborg
+2605,Brann
+2606,Molde
+2607,Stromsgodset
+2608,Viking
+2609,Bodo/Glimt
+2610,Odd
+2611,Ranheim
+2612,Sarpsborg 08
+2613,Stabaek
+2614,Valerenga
+2615,Bodo/Glimt
+2616,Haugesund
+2617,Kristiansund
+2618,Lillestrom
+2619,Mjondalen
+2620,Rosenborg
+2621,Brann
+2622,Odd
+2623,Sarpsborg 08
+2624,Lillestrom
+2625,Ranheim
+2626,Stabaek
+2627,Stromsgodset
+2628,Tromso
+2629,Molde
+2630,Valerenga
+2631,Mjondalen
+2632,Bodo/Glimt
+2633,Brann
+2634,Haugesund
+2635,Kristiansund
+2636,Odd
+2637,Rosenborg
+2638,Viking
+2639,Lillestrom
+2640,Haugesund
+2641,Molde
+2642,Ranheim
+2643,Sarpsborg 08
+2644,Tromso
+2645,Stabaek
+2646,Stromsgodset
+2647,Brann
+2648,Kristiansund
+2649,Mjondalen
+2650,Odd
+2651,Rosenborg
+2652,Tromso
+2653,Viking
+2654,Valerenga
+2655,Haugesund
+2656,Lillestrom
+2657,Rosenborg
+2658,Sarpsborg 08
+2659,Stromsgodset
+2660,Bodo/Glimt
+2661,Molde
+2662,Valerenga
+2663,Mjondalen
+2664,Ranheim
+2665,Tromso
+2666,Brann
+2667,Haugesund
+2668,Bodo/Glimt
+2669,Lillestrom
+2670,Mjondalen
+2671,Molde
+2672,Sarpsborg 08
+2673,Rosenborg
+2674,Stabaek
+2675,Stromsgodset
+2676,Valerenga
+2677,Kristiansund
+2678,Odd
+2679,Ranheim
+2680,Tromso
+2681,Viking
+2682,Brann
+2683,Rosenborg
+2684,Bodo/Glimt
+2685,Haugesund
+2686,Lillestrom
+2687,Mjondalen
+2688,Stabaek
+2689,Molde
+2690,Sarpsborg 08
+2691,Ranheim
+2692,Brann
+2693,Kristiansund
+2694,Odd
+2695,Stromsgodset
+2696,Tromso
+2697,Valerenga
+2698,Viking
+2699,Odd
+2700,Rosenborg
+2701,Bodo/Glimt
+2702,Haugesund
+2703,Mjondalen
+2704,Lillestrom
+2705,Stabaek
+2706,Brann
+2707,Molde
+2708,Odd
+2709,Sarpsborg 08
+2710,Ranheim
+2711,Stabaek
+2712,Tromso
+2713,Viking
+2714,Valerenga
+2715,Stromsgodset
+2716,Rosenborg
+2717,Bodo/Glimt
+2718,Haugesund
+2719,Kristiansund
+2720,Stromsgodset
+2721,Lillestrom
+2722,Kristiansund
+2723,Stabaek
+2724,Viking
+2725,Odd
+2726,Stabaek
+2727,Mjondalen
+2728,Ranheim
+2729,Tromso
+2730,Valerenga
+2731,Viking
+2732,Sarpsborg 08
+2733,Rosenborg
+2734,Brann
+2735,Haugesund
+2736,Kristiansund
+2737,Molde
+2738,Viking
+2739,Stromsgodset
+2740,Bodo/Glimt
+2741,Odd
+2742,Stabaek
+2743,Lillestrom
+2744,Mjondalen
+2745,Ranheim
+2746,Sarpsborg 08
+2747,Tromso
+2748,Valerenga
+2749,Rosenborg
+2750,Bodo/Glimt
+2751,Haugesund
+2752,Molde
+2753,Stromsgodset
+2754,Viking
+2755,Kristiansund
+2756,Sarpsborg 08
+2757,Brann
+2758,Lillestrom
+2759,Odd
+2760,Ranheim
+2761,Tromso
+2762,Valerenga
+2763,Mjondalen
+2764,Stabaek
+2765,Rosenborg
+2766,Kristiansund
+2767,Molde
+2768,Sarpsborg 08
+2769,Stromsgodset
+2770,Valerenga
+2771,Bodo/Glimt
+2772,Viking
+2773,Mjondalen
+2774,Odd
+2775,Haugesund
+2776,Lillestrom
+2777,Ranheim
+2778,Stabaek
+2779,Tromso
+2780,Brann
+2781,Kristiansund
+2782,Valerenga
+2783,Molde
+2784,Ranheim
+2785,Stromsgodset
+2786,Viking
+2787,Sarpsborg 08
+2788,Bodo/Glimt
+2789,Lillestrom
+2790,Haugesund
+2791,Kristiansund
+2792,Mjondalen
+2793,Stabaek
+2794,Tromso
+2795,Rosenborg
+2796,Brann
+2797,Stromsgodset
+2798,Molde
+2799,Bodo/Glimt
+2800,Ranheim
+2801,Sarpsborg 08
+2802,Viking
+2803,Valerenga
+2804,Odd
+2805,Brann
+2806,Haugesund
+2807,Kristiansund
+2808,Lillestrom
+2809,Mjondalen
+2810,Molde
+2811,Tromso
+2812,Rosenborg
+2813,Bodo/Glimt
+2814,Odd
+2815,Ranheim
+2816,Sarpsborg 08
+2817,Stabaek
+2818,Stromsgodset
+2819,Valerenga
+2820,Viking
+2821,Brann
+2822,Haugesund
+2823,Kristiansund
+2824,Lillestrom
+2825,Mjondalen
+2826,Molde
+2827,Rosenborg
+2828,Tromso
+2829,Start
+2830,Lillestrom
+2831,Aalesund
+2832,Odd
+2833,Rosenborg
+2834,Stabaek
+2835,Viking
+2836,Sarpsborg 08
+2837,Start
+2838,Haugesund
+2839,Mjondalen
+2840,Molde
+2841,Bodo/Glimt
+2842,Kristiansund
+2843,Sandefjord
+2844,Stromsgodset
+2845,Valerenga
+2846,Brann
+2847,Aalesund
+2848,Haugesund
+2849,Stabaek
+2850,Start
+2851,Viking
+2852,Odd
+2853,Sarpsborg 08
+2854,Rosenborg
+2855,Start
+2856,Valerenga
+2857,Bodo/Glimt
+2858,Mjondalen
+2859,Molde
+2860,Sandefjord
+2861,Stromsgodset
+2862,Brann
+2863,Aalesund
+2864,Haugesund
+2865,Odd
+2866,Stabaek
+2867,Viking
+2868,Rosenborg
+2869,Kristiansund
+2870,Sarpsborg 08
+2871,Start
+2872,Valerenga
+2873,Bodo/Glimt
+2874,Molde
+2875,Odd
+2876,Sandefjord
+2877,Stromsgodset
+2878,Stabaek
+2879,Haugesund
+2880,Rosenborg
+2881,Aalesund
+2882,Kristiansund
+2883,Mjondalen
+2884,Sarpsborg 08
+2885,Viking
+2886,Brann
+2887,Bodo/Glimt
+2888,Molde
+2889,Sandefjord
+2890,Stromsgodset
+2891,Valerenga
+2892,Odd
+2893,Stabaek
+2894,Start
+2895,Mjondalen
+2896,Haugesund
+2897,Aalesund
+2898,Kristiansund
+2899,Rosenborg
+2900,Sarpsborg 08
+2901,Stromsgodset
+2902,Brann
+2903,Odd
+2904,Brann
+2905,Bodo/Glimt
+2906,Sandefjord
+2907,Start
+2908,Valerenga
+2909,Viking
+2910,Haugesund
+2911,Aalesund
+2912,Kristiansund
+2913,Mjondalen
+2914,Sarpsborg 08
+2915,Stromsgodset
+2916,Molde
+2917,Stabaek
+2918,Rosenborg
+2919,Sandefjord
+2920,Brann
+2921,Bodo/Glimt
+2922,Haugesund
+2923,Sarpsborg 08
+2924,Start
+2925,Viking
+2926,Odd
+2927,Molde
+2928,Valerenga
+2929,Aalesund
+2930,Kristiansund
+2931,Mjondalen
+2932,Stabaek
+2933,Stromsgodset
+2934,Rosenborg
+2935,Molde
+2936,Sarpsborg 08
+2937,Brann
+2938,Haugesund
+2939,Odd
+2940,Sandefjord
+2941,Viking
+2942,Rosenborg
+2943,Start
+2944,Molde
+2945,Aalesund
+2946,Bodo/Glimt
+2947,Kristiansund
+2948,Stromsgodset
+2949,Valerenga
+2950,Mjondalen
+2951,Stabaek
+2952,Haugesund
+2953,Brann
+2954,Odd
+2955,Rosenborg
+2956,Sandefjord
+2957,Sarpsborg 08
+2958,Start
+2959,Viking
+2960,Kristiansund
+2961,Stabaek
+2962,Aalesund
+2963,Bodo/Glimt
+2964,Mjondalen
+2965,Stromsgodset
+2966,Valerenga
+2967,Valerenga
+2968,Sarpsborg 08
+2969,Brann
+2970,Rosenborg
+2971,Sandefjord
+2972,Start
+2973,Viking
+2974,Odd
+2975,Molde
+2976,Stromsgodset
+2977,Aalesund
+2978,Haugesund
+2979,Kristiansund
+2980,Mjondalen
+2981,Stabaek
+2982,Bodo/Glimt
+2983,Sarpsborg 08
+2984,Valerenga
+2985,Aalesund
+2986,Bodo/Glimt
+2987,Brann
+2988,Start
+2989,Viking
+2990,Rosenborg
+2991,Mjondalen
+2992,Molde
+2993,Haugesund
+2994,Kristiansund
+2995,Stabaek
+2996,Stromsgodset
+2997,Sandefjord
+2998,Start
+2999,Brann
+3000,Aalesund
+3001,Molde
+3002,Sarpsborg 08
+3003,Valerenga
+3004,Bodo/Glimt
+3005,Viking
+3006,Odd
+3007,Haugesund
+3008,Mjondalen
+3009,Kristiansund
+3010,Rosenborg
+3011,Sandefjord
+3012,Stabaek
+3013,Stromsgodset
+3014,Odd
+3015,Mjondalen
+3016,Brann
+3017,Bodo/Glimt
+3018,Molde
+3019,Sandefjord
+3020,Start
+3021,Viking
+3022,Valerenga
+3023,Stabaek
+3024,Aalesund
+3025,Haugesund
+3026,Kristiansund
+3027,Odd
+3028,Sarpsborg 08
+3029,Stromsgodset
+3030,Rosenborg
+3031,Viking
+3032,Brann
+3033,Bodo/Glimt
+3034,Kristiansund
+3035,Mjondalen
+3036,Molde
+3037,Valerenga
+3038,Viking
+3039,Start
+3040,Stabaek
+3041,Sarpsborg 08
+3042,Haugesund
+3043,Aalesund
+3044,Bodo/Glimt
+3045,Brann
+3046,Mjondalen
+3047,Sandefjord
+3048,Stromsgodset
+3049,Molde
+3050,Valerenga
+3051,Kristiansund
+3052,Viking
+3053,Aalesund
+3054,Start
+3055,Rosenborg
+3056,Haugesund
+3057,Sarpsborg 08
+3058,Rosenborg
+3059,Sandefjord
+3060,Stabaek
+3061,Odd
+3062,Molde
+3063,Bodo/Glimt
+3064,Odd
+3065,Brann
+3066,Kristiansund
+3067,Mjondalen
+3068,Sandefjord
+3069,Stromsgodset
+3070,Valerenga
+3071,Bodo/Glimt
+3072,Molde
+3073,Viking
+3074,Valerenga
+3075,Kristiansund
+3076,Brann
+3077,Tromso
+3078,Rosenborg
+3079,Sarpsborg 08
+3080,Valerenga
+3081,Viking
+3082,Bodo/Glimt
+3083,Sandefjord
+3084,Stromsgodset
+3085,Molde
+3086,Stabaek
+3087,Rosenborg
+3088,Odd
+3089,Brann
+3090,Haugesund
+3091,Kristiansund
+3092,Lillestrom
+3093,Mjondalen
+3094,Tromso
+3095,Rosenborg
+3096,Bodo/Glimt
+3097,Lillestrom
+3098,Sandefjord
+3099,Sarpsborg 08
+3100,Stabaek
+3101,Stromsgodset
+3102,Viking
+3103,Molde
+3104,Mjondalen
+3105,Brann
+3106,Kristiansund
+3107,Odd
+3108,Rosenborg
+3109,Tromso
+3110,Valerenga
+3111,Haugesund
+3112,Kristiansund
+3113,Sandefjord
+3114,Bodo/Glimt
+3115,Lillestrom
+3116,Sarpsborg 08
+3117,Stromsgodset
+3118,Viking
+3119,Stabaek
+3120,Bodo/Glimt
+3121,Molde
+3122,Valerenga
+3123,Sandefjord
+3124,Mjondalen
+3125,Brann
+3126,Haugesund
+3127,Molde
+3128,Rosenborg
+3129,Tromso
+3130,Valerenga
+3131,Bodo/Glimt
+3132,Haugesund
+3133,Kristiansund
+3134,Odd
+3135,Stromsgodset
+3136,Stabaek
+3137,Sarpsborg 08
+3138,Lillestrom
+3139,Bodo/Glimt
+3140,Molde
+3141,Rosenborg
+3142,Sandefjord
+3143,Tromso
+3144,Viking
+3145,Brann
+3146,Mjondalen
+3147,Valerenga
+3148,Bodo/Glimt
+3149,Stabaek
+3150,Haugesund
+3151,Lillestrom
+3152,Odd
+3153,Sarpsborg 08
+3154,Stromsgodset
+3155,Kristiansund
+3156,Mjondalen
+3157,Rosenborg
+3158,Sandefjord
+3159,Viking
+3160,Brann
+3161,Valerenga
+3162,Molde
+3163,Odd
+3164,Sarpsborg 08
+3165,Brann
+3166,Haugesund
+3167,Kristiansund
+3168,Lillestrom
+3169,Tromso
+3170,Stromsgodset
+3171,Sandefjord
+3172,Sarpsborg 08
+3173,Stabaek
+3174,Stromsgodset
+3175,Haugesund
+3176,Lillestrom
+3177,Mjondalen
+3178,Odd
+3179,Mjondalen
+3180,Molde
+3181,Sandefjord
+3182,Viking
+3183,Stabaek
+3184,Kristiansund
+3185,Sarpsborg 08
+3186,Lillestrom
+3187,Mjondalen
+3188,Odd
+3189,Tromso
+3190,Viking
+3191,Brann
+3192,Stabaek
+3193,Stromsgodset
+3194,Bodo/Glimt
+3195,Haugesund
+3196,Sandefjord
+3197,Valerenga
+3198,Rosenborg
+3199,Mjondalen
+3200,Brann
+3201,Kristiansund
+3202,Odd
+3203,Sarpsborg 08
+3204,Tromso
+3205,Viking
+3206,Valerenga
+3207,Lillestrom
+3208,Stabaek
+3209,Bodo/Glimt
+3210,Haugesund
+3211,Molde
+3212,Sandefjord
+3213,Stromsgodset
+3214,Rosenborg
+3215,Kristiansund
+3216,Odd
+3217,Mjondalen
+3218,Sarpsborg 08
+3219,Valerenga
+3220,Viking
+3221,Tromso
+3222,Lillestrom
+3223,Stromsgodset
+3224,Brann
+3225,Haugesund
+3226,Molde
+3227,Rosenborg
+3228,Sandefjord
+3229,Bodo/Glimt
+3230,Stabaek
+3231,Sarpsborg 08
+3232,Viking
+3233,Mjondalen
+3234,Odd
+3235,Stabaek
+3236,Tromso
+3237,Valerenga
+3238,Kristiansund
+3239,Lillestrom
+3240,Molde
+3241,Bodo/Glimt
+3242,Brann
+3243,Haugesund
+3244,Sandefjord
+3245,Stromsgodset
+3246,Rosenborg
+3247,Viking
+3248,Stabaek
+3249,Kristiansund
+3250,Rosenborg
+3251,Stromsgodset
+3252,Tromso
+3253,Valerenga
+3254,Odd
+3255,Haugesund
+3256,Lillestrom
+3257,Mjondalen
+3258,Sandefjord
+3259,Tromso
+3260,Molde
+3261,Brann
+3262,Sarpsborg 08
+3263,Kristiansund
+3264,Rosenborg
+3265,Bodo/Glimt
+3266,Odd
+3267,Stabaek
+3268,Stromsgodset
+3269,Viking
+3270,Valerenga
+3271,Pogon Szczecin
+3272,Piast Gliwice
+3273,Jagiellonia
+3274,Widzew Lodz
+3275,Lech Poznan
+3276,Wisla
+3277,Legia
+3278,Lechia Gdansk
+3279,Zaglebie
+3280,Jagiellonia
+3281,Podbeskidzie
+3282,Widzew Lodz
+3283,Polonia Warszawa
+3284,Slask Wroclaw
+3285,GKS Belchatow
+3286,Pogon Szczecin
+3287,Piast Gliwice
+3288,Wisla
+3289,Korona Kielce
+3290,Widzew Lodz
+3291,Jagiellonia
+3292,Lech Poznan
+3293,Slask Wroclaw
+3294,Legia
+3295,Podbeskidzie
+3296,Pogon Szczecin
+3297,Polonia Warszawa
+3298,Lechia Gdansk
+3299,Ruch
+3300,Zaglebie
+3301,Gornik Z.
+3302,GKS Belchatow
+3303,Korona Kielce
+3304,Legia
+3305,Jagiellonia
+3306,Ruch
+3307,Wisla
+3308,Slask Wroclaw
+3309,Lech Poznan
+3310,Widzew Lodz
+3311,Podbeskidzie
+3312,Polonia Warszawa
+3313,GKS Belchatow
+3314,Pogon Szczecin
+3315,Zaglebie
+3316,Gornik Z.
+3317,Lechia Gdansk
+3318,Piast Gliwice
+3319,Ruch
+3320,Legia
+3321,Korona Kielce
+3322,Podbeskidzie
+3323,Lech Poznan
+3324,Widzew Lodz
+3325,Slask Wroclaw
+3326,Jagiellonia
+3327,Gornik Z.
+3328,Zaglebie
+3329,GKS Belchatow
+3330,Piast Gliwice
+3331,Wisla
+3332,Lechia Gdansk
+3333,Polonia Warszawa
+3334,Pogon Szczecin
+3335,Podbeskidzie
+3336,Widzew Lodz
+3337,Korona Kielce
+3338,GKS Belchatow
+3339,Lech Poznan
+3340,Slask Wroclaw
+3341,Legia
+3342,Ruch
+3343,Gornik Z.
+3344,Wisla
+3345,Piast Gliwice
+3346,Zaglebie
+3347,Jagiellonia
+3348,Lechia Gdansk
+3349,Polonia Warszawa
+3350,Pogon Szczecin
+3351,Ruch
+3352,Widzew Lodz
+3353,Podbeskidzie
+3354,Slask Wroclaw
+3355,Legia
+3356,Gornik Z.
+3357,Korona Kielce
+3358,GKS Belchatow
+3359,Zaglebie
+3360,Lechia Gdansk
+3361,Piast Gliwice
+3362,Jagiellonia
+3363,Polonia Warszawa
+3364,Lech Poznan
+3365,Wisla
+3366,Pogon Szczecin
+3367,Korona Kielce
+3368,Legia
+3369,GKS Belchatow
+3370,Polonia Warszawa
+3371,Gornik Z.
+3372,Slask Wroclaw
+3373,Ruch
+3374,Podbeskidzie
+3375,Jagiellonia
+3376,Lech Poznan
+3377,Pogon Szczecin
+3378,Widzew Lodz
+3379,Wisla
+3380,Lechia Gdansk
+3381,Legia
+3382,Piast Gliwice
+3383,Ruch
+3384,Slask Wroclaw
+3385,GKS Belchatow
+3386,Zaglebie
+3387,Gornik Z.
+3388,Podbeskidzie
+3389,Korona Kielce
+3390,Polonia Warszawa
+3391,Zaglebie
+3392,Polonia Warszawa
+3393,Podbeskidzie
+3394,Slask Wroclaw
+3395,Korona Kielce
+3396,GKS Belchatow
+3397,Ruch
+3398,Gornik Z.
+3399,Lechia Gdansk
+3400,Lech Poznan
+3401,Ruch
+3402,Piast Gliwice
+3403,Legia
+3404,Korona Kielce
+3405,Gornik Z.
+3406,Wisla
+3407,Zaglebie
+3408,Podbeskidzie
+3409,GKS Belchatow
+3410,Ruch
+3411,Polonia Warszawa
+3412,Pogon Szczecin
+3413,Gornik Z.
+3414,Lechia Gdansk
+3415,Jagiellonia
+3416,Legia
+3417,Korona Kielce
+3418,Widzew Lodz
+3419,Lech Poznan
+3420,Slask Wroclaw
+3421,Wisla
+3422,Piast Gliwice
+3423,Podbeskidzie
+3424,Gornik Z.
+3425,Piast Gliwice
+3426,GKS Belchatow
+3427,Polonia Warszawa
+3428,Zaglebie
+3429,Lechia Gdansk
+3430,Pogon Szczecin
+3431,Ruch
+3432,Lech Poznan
+3433,Jagiellonia
+3434,Slask Wroclaw
+3435,Legia
+3436,Korona Kielce
+3437,Wisla
+3438,Widzew Lodz
+3439,Pogon Szczecin
+3440,Zaglebie
+3441,GKS Belchatow
+3442,Polonia Warszawa
+3443,Wisla
+3444,Gornik Z.
+3445,Lechia Gdansk
+3446,Piast Gliwice
+3447,Widzew Lodz
+3448,Korona Kielce
+3449,Podbeskidzie
+3450,Jagiellonia
+3451,Legia
+3452,Slask Wroclaw
+3453,Lech Poznan
+3454,Ruch
+3455,Pogon Szczecin
+3456,Wisla
+3457,Polonia Warszawa
+3458,Lechia Gdansk
+3459,Piast Gliwice
+3460,Zaglebie
+3461,Gornik Z.
+3462,Jagiellonia
+3463,Podbeskidzie
+3464,Korona Kielce
+3465,Widzew Lodz
+3466,GKS Belchatow
+3467,Lech Poznan
+3468,Legia
+3469,Slask Wroclaw
+3470,Ruch
+3471,Polonia Warszawa
+3472,Lech Poznan
+3473,Pogon Szczecin
+3474,Wisla
+3475,Jagiellonia
+3476,Piast Gliwice
+3477,Lechia Gdansk
+3478,Zaglebie
+3479,Ruch
+3480,Slask Wroclaw
+3481,Legia
+3482,Podbeskidzie
+3483,Gornik Z.
+3484,GKS Belchatow
+3485,Korona Kielce
+3486,Widzew Lodz
+3487,Piast Gliwice
+3488,Wisla
+3489,Widzew Lodz
+3490,Lechia Gdansk
+3491,Lech Poznan
+3492,Pogon Szczecin
+3493,Jagiellonia
+3494,Zaglebie
+3495,Gornik Z.
+3496,Podbeskidzie
+3497,Polonia Warszawa
+3498,Ruch
+3499,Slask Wroclaw
+3500,Zaglebie
+3501,GKS Belchatow
+3502,Korona Kielce
+3503,Jagiellonia
+3504,Lech Poznan
+3505,Lechia Gdansk
+3506,Legia
+3507,Piast Gliwice
+3508,Pogon Szczecin
+3509,Widzew Lodz
+3510,Wisla
+3511,Zaglebie
+3512,Wisla
+3513,Zawisza
+3514,Legia
+3515,Korona Kielce
+3516,Cracovia
+3517,Ruch
+3518,Lechia Gdansk
+3519,Ruch
+3520,Widzew Lodz
+3521,Podbeskidzie
+3522,Pogon Szczecin
+3523,Piast Gliwice
+3524,Slask Wroclaw
+3525,Lech Poznan
+3526,Korona Kielce
+3527,Cracovia
+3528,Zawisza
+3529,Widzew Lodz
+3530,Legia
+3531,Gornik Z.
+3532,Slask Wroclaw
+3533,Zaglebie
+3534,Lechia Gdansk
+3535,Podbeskidzie
+3536,Wisla
+3537,Widzew Lodz
+3538,Lechia Gdansk
+3539,Ruch
+3540,Pogon Szczecin
+3541,Lech Poznan
+3542,Piast Gliwice
+3543,Zaglebie
+3544,Gornik Z.
+3545,Zawisza
+3546,Jagiellonia
+3547,Legia
+3548,Slask Wroclaw
+3549,Wisla
+3550,Korona Kielce
+3551,Lechia Gdansk
+3552,Ruch
+3553,Widzew Lodz
+3554,Pogon Szczecin
+3555,Cracovia
+3556,Piast Gliwice
+3557,Lech Poznan
+3558,Podbeskidzie
+3559,Widzew Lodz
+3560,Wisla
+3561,Zawisza
+3562,Slask Wroclaw
+3563,Korona Kielce
+3564,Jagiellonia
+3565,Pogon Szczecin
+3566,Gornik Z.
+3567,Podbeskidzie
+3568,Piast Gliwice
+3569,Lech Poznan
+3570,Lechia Gdansk
+3571,Cracovia
+3572,Zaglebie
+3573,Ruch
+3574,Legia
+3575,Pogon Szczecin
+3576,Piast Gliwice
+3577,Zawisza
+3578,Wisla
+3579,Slask Wroclaw
+3580,Widzew Lodz
+3581,Jagiellonia
+3582,Korona Kielce
+3583,Podbeskidzie
+3584,Cracovia
+3585,Ruch
+3586,Legia
+3587,Zaglebie
+3588,Lech Poznan
+3589,Gornik Z.
+3590,Lechia Gdansk
+3591,Zawisza
+3592,Slask Wroclaw
+3593,Jagiellonia
+3594,Pogon Szczecin
+3595,Podbeskidzie
+3596,Wisla
+3597,Widzew Lodz
+3598,Piast Gliwice
+3599,Korona Kielce
+3600,Gornik Z.
+3601,Zawisza
+3602,Zaglebie
+3603,Lechia Gdansk
+3604,Cracovia
+3605,Legia
+3606,Ruch
+3607,Podbeskidzie
+3608,Widzew Lodz
+3609,Jagiellonia
+3610,Pogon Szczecin
+3611,Piast Gliwice
+3612,Wisla
+3613,Slask Wroclaw
+3614,Lech Poznan
+3615,Gornik Z.
+3616,Pogon Szczecin
+3617,Wisla
+3618,Korona Kielce
+3619,Zaglebie
+3620,Zawisza
+3621,Slask Wroclaw
+3622,Jagiellonia
+3623,Cracovia
+3624,Widzew Lodz
+3625,Legia
+3626,Lechia Gdansk
+3627,Lech Poznan
+3628,Piast Gliwice
+3629,Podbeskidzie
+3630,Ruch
+3631,Jagiellonia
+3632,Gornik Z.
+3633,Piast Gliwice
+3634,Podbeskidzie
+3635,Lech Poznan
+3636,Slask Wroclaw
+3637,Widzew Lodz
+3638,Pogon Szczecin
+3639,Zaglebie
+3640,Wisla
+3641,Zawisza
+3642,Jagiellonia
+3643,Legia
+3644,Lechia Gdansk
+3645,Gornik Z.
+3646,Cracovia
+3647,Jagiellonia
+3648,Pogon Szczecin
+3649,Wisla
+3650,Korona Kielce
+3651,Piast Gliwice
+3652,Lech Poznan
+3653,Ruch
+3654,Podbeskidzie
+3655,Jagiellonia
+3656,Slask Wroclaw
+3657,Gornik Z.
+3658,Zawisza
+3659,Korona Kielce
+3660,Cracovia
+3661,Legia
+3662,Zaglebie
+3663,Piast Gliwice
+3664,Lech Poznan
+3665,Widzew Lodz
+3666,Pogon Szczecin
+3667,Ruch
+3668,Podbeskidzie
+3669,Lechia Gdansk
+3670,Cracovia
+3671,Jagiellonia
+3672,Zawisza
+3673,Korona Kielce
+3674,Slask Wroclaw
+3675,Gornik Z.
+3676,Zaglebie
+3677,Legia
+3678,Wisla
+3679,Podbeskidzie
+3680,Legia
+3681,Cracovia
+3682,Lechia Gdansk
+3683,Ruch
+3684,Zaglebie
+3685,Lech Poznan
+3686,Piast Gliwice
+3687,Jagiellonia
+3688,Pogon Szczecin
+3689,Widzew Lodz
+3690,Gornik Z.
+3691,Korona Kielce
+3692,Wisla
+3693,Slask Wroclaw
+3694,Zawisza
+3695,Ruch
+3696,Lechia Gdansk
+3697,Gornik Z.
+3698,Lech Poznan
+3699,Cracovia
+3700,Zaglebie
+3701,Legia
+3702,Podbeskidzie
+3703,Korona Kielce
+3704,Zawisza
+3705,Jagiellonia
+3706,Wisla
+3707,Pogon Szczecin
+3708,Piast Gliwice
+3709,Slask Wroclaw
+3710,Widzew Lodz
+3711,Korona Kielce
+3712,Lech Poznan
+3713,Lechia Gdansk
+3714,Gornik Z.
+3715,Legia
+3716,Zaglebie
+3717,Ruch
+3718,Cracovia
+3719,Widzew Lodz
+3720,Wisla
+3721,Jagiellonia
+3722,Lech Poznan
+3723,Podbeskidzie
+3724,Pogon Szczecin
+3725,Slask Wroclaw
+3726,Piast Gliwice
+3727,Ruch
+3728,Korona Kielce
+3729,Legia
+3730,Cracovia
+3731,Lechia Gdansk
+3732,Zawisza
+3733,Gornik Z.
+3734,Zaglebie
+3735,Podbeskidzie
+3736,Cracovia
+3737,Lechia Gdansk
+3738,Widzew Lodz
+3739,Lech Poznan
+3740,Piast Gliwice
+3741,Legia
+3742,Ruch
+3743,Gornik Z.
+3744,Jagiellonia
+3745,Korona Kielce
+3746,Pogon Szczecin
+3747,Slask Wroclaw
+3748,Wisla
+3749,Zaglebie
+3750,Zawisza
+3751,Cracovia
+3752,Lech Poznan
+3753,Slask Wroclaw
+3754,Jagiellonia
+3755,Legia
+3756,Korona Kielce
+3757,Ruch
+3758,Pogon Szczecin
+3759,Podbeskidzie
+3760,Piast Gliwice
+3761,Lechia Gdansk
+3762,Wisla
+3763,Widzew Lodz
+3764,Gornik Z.
+3765,Zawisza
+3766,Zaglebie
+3767,Jagiellonia
+3768,Legia
+3769,Cracovia
+3770,Pogon Szczecin
+3771,Lech Poznan
+3772,Korona Kielce
+3773,Ruch
+3774,Slask Wroclaw
+3775,Widzew Lodz
+3776,Lechia Gdansk
+3777,Slask Wroclaw
+3778,Korona Kielce
+3779,Pogon Szczecin
+3780,Zaglebie
+3781,Gornik Z.
+3782,Ruch
+3783,Jagiellonia
+3784,Podbeskidzie
+3785,Cracovia
+3786,Piast Gliwice
+3787,Wisla
+3788,Lech Poznan
+3789,Legia
+3790,Zawisza
+3791,Jagiellonia
+3792,Podbeskidzie
+3793,Slask Wroclaw
+3794,Lech Poznan
+3795,Lechia Gdansk
+3796,Pogon Szczecin
+3797,Widzew Lodz
+3798,Zawisza
+3799,Cracovia
+3800,Korona Kielce
+3801,Piast Gliwice
+3802,Zaglebie
+3803,Gornik Z.
+3804,Legia
+3805,Ruch
+3806,Wisla
+3807,Podbeskidzie
+3808,Leczna
+3809,Jagiellonia
+3810,Legia
+3811,Lech Poznan
+3812,Zawisza
+3813,Slask Wroclaw
+3814,Gornik Z.
+3815,GKS Belchatow
+3816,Lechia Gdansk
+3817,Pogon Szczecin
+3818,Cracovia
+3819,Ruch
+3820,Zawisza
+3821,Gornik Z.
+3822,Wisla
+3823,Jagiellonia
+3824,Piast Gliwice
+3825,Korona Kielce
+3826,Legia
+3827,Podbeskidzie
+3828,Slask Wroclaw
+3829,Lech Poznan
+3830,Leczna
+3831,Cracovia
+3832,Gornik Z.
+3833,GKS Belchatow
+3834,Legia
+3835,Lechia Gdansk
+3836,Zawisza
+3837,Wisla
+3838,Pogon Szczecin
+3839,Korona Kielce
+3840,Jagiellonia
+3841,Leczna
+3842,Piast Gliwice
+3843,Lech Poznan
+3844,Slask Wroclaw
+3845,Wisla
+3846,Podbeskidzie
+3847,Zawisza
+3848,Pogon Szczecin
+3849,Cracovia
+3850,Gornik Z.
+3851,Jagiellonia
+3852,Legia
+3853,Ruch
+3854,GKS Belchatow
+3855,Piast Gliwice
+3856,Wisla
+3857,Leczna
+3858,Slask Wroclaw
+3859,Korona Kielce
+3860,Lechia Gdansk
+3861,Podbeskidzie
+3862,Lech Poznan
+3863,Zawisza
+3864,Pogon Szczecin
+3865,Cracovia
+3866,Jagiellonia
+3867,Legia
+3868,Gornik Z.
+3869,GKS Belchatow
+3870,Korona Kielce
+3871,Slask Wroclaw
+3872,Lechia Gdansk
+3873,Piast Gliwice
+3874,Podbeskidzie
+3875,Lech Poznan
+3876,Ruch
+3877,Wisla
+3878,Leczna
+3879,Korona Kielce
+3880,Slask Wroclaw
+3881,Zawisza
+3882,GKS Belchatow
+3883,Legia
+3884,Gornik Z.
+3885,Cracovia
+3886,Jagiellonia
+3887,Podbeskidzie
+3888,Wisla
+3889,Leczna
+3890,Lechia Gdansk
+3891,Ruch
+3892,Piast Gliwice
+3893,Pogon Szczecin
+3894,Lech Poznan
+3895,Cracovia
+3896,Legia
+3897,Podbeskidzie
+3898,Slask Wroclaw
+3899,Jagiellonia
+3900,Korona Kielce
+3901,Gornik Z.
+3902,Zawisza
+3903,GKS Belchatow
+3904,Wisla
+3905,Lechia Gdansk
+3906,Piast Gliwice
+3907,Pogon Szczecin
+3908,Lech Poznan
+3909,Zawisza
+3910,Ruch
+3911,Leczna
+3912,Korona Kielce
+3913,Gornik Z.
+3914,Cracovia
+3915,Slask Wroclaw
+3916,Legia
+3917,Podbeskidzie
+3918,Jagiellonia
+3919,Piast Gliwice
+3920,Lech Poznan
+3921,Lechia Gdansk
+3922,GKS Belchatow
+3923,Wisla
+3924,Ruch
+3925,Zawisza
+3926,Pogon Szczecin
+3927,Ruch
+3928,GKS Belchatow
+3929,Pogon Szczecin
+3930,Wisla
+3931,Korona Kielce
+3932,Lechia Gdansk
+3933,Piast Gliwice
+3934,Cracovia
+3935,Leczna
+3936,Piast Gliwice
+3937,Jagiellonia
+3938,Podbeskidzie
+3939,Korona Kielce
+3940,Lech Poznan
+3941,Slask Wroclaw
+3942,Legia
+3943,Zawisza
+3944,Gornik Z.
+3945,GKS Belchatow
+3946,Pogon Szczecin
+3947,Cracovia
+3948,Lechia Gdansk
+3949,Wisla
+3950,Ruch
+3951,Korona Kielce
+3952,Slask Wroclaw
+3953,Jagiellonia
+3954,Ruch
+3955,Lech Poznan
+3956,Podbeskidzie
+3957,Leczna
+3958,Piast Gliwice
+3959,Zawisza
+3960,Lechia Gdansk
+3961,GKS Belchatow
+3962,Ruch
+3963,Pogon Szczecin
+3964,Cracovia
+3965,Legia
+3966,Gornik Z.
+3967,Podbeskidzie
+3968,Wisla
+3969,Lechia Gdansk
+3970,Leczna
+3971,Slask Wroclaw
+3972,Lech Poznan
+3973,Korona Kielce
+3974,Piast Gliwice
+3975,Ruch
+3976,Cracovia
+3977,GKS Belchatow
+3978,Zawisza
+3979,Gornik Z.
+3980,Jagiellonia
+3981,Legia
+3982,Pogon Szczecin
+3983,Ruch
+3984,Lech Poznan
+3985,Piast Gliwice
+3986,Wisla
+3987,Lechia Gdansk
+3988,Podbeskidzie
+3989,Slask Wroclaw
+3990,Leczna
+3991,Cracovia
+3992,Pogon Szczecin
+3993,Gornik Z.
+3994,Jagiellonia
+3995,Zawisza
+3996,Korona Kielce
+3997,Legia
+3998,GKS Belchatow
+3999,Pogon Szczecin
+4000,Leczna
+4001,Ruch
+4002,Wisla
+4003,Lechia Gdansk
+4004,Piast Gliwice
+4005,Podbeskidzie
+4006,Lech Poznan
+4007,Cracovia
+4008,Slask Wroclaw
+4009,GKS Belchatow
+4010,Legia
+4011,Korona Kielce
+4012,Gornik Z.
+4013,Jagiellonia
+4014,Zawisza
+4015,Ruch
+4016,Wisla
+4017,Lechia Gdansk
+4018,Piast Gliwice
+4019,Pogon Szczecin
+4020,GKS Belchatow
+4021,Lech Poznan
+4022,Leczna
+4023,Korona Kielce
+4024,Podbeskidzie
+4025,Slask Wroclaw
+4026,Jagiellonia
+4027,Cracovia
+4028,Leczna
+4029,Legia
+4030,Gornik Z.
+4031,Zawisza
+4032,Ruch
+4033,Pogon Szczecin
+4034,GKS Belchatow
+4035,Lech Poznan
+4036,Piast Gliwice
+4037,Lechia Gdansk
+4038,Wisla
+4039,Cracovia
+4040,Gornik Z.
+4041,Jagiellonia
+4042,Korona Kielce
+4043,Leczna
+4044,Legia
+4045,Podbeskidzie
+4046,Slask Wroclaw
+4047,Korona Kielce
+4048,Jagiellonia
+4049,Legia
+4050,Pogon Szczecin
+4051,Wisla
+4052,Podbeskidzie
+4053,Cracovia
+4054,Piast Gliwice
+4055,Zawisza
+4056,Lechia Gdansk
+4057,Leczna
+4058,GKS Belchatow
+4059,Ruch
+4060,Gornik Z.
+4061,Lech Poznan
+4062,Slask Wroclaw
+4063,Korona Kielce
+4064,Podbeskidzie
+4065,Cracovia
+4066,Piast Gliwice
+4067,Gornik Z.
+4068,Lech Poznan
+4069,Legia
+4070,Wisla
+4071,Zawisza
+4072,Cracovia
+4073,Slask Wroclaw
+4074,Pogon Szczecin
+4075,Jagiellonia
+4076,Piast Gliwice
+4077,Lechia Gdansk
+4078,Ruch
+4079,Podbeskidzie
+4080,Korona Kielce
+4081,Leczna
+4082,GKS Belchatow
+4083,Slask Wroclaw
+4084,Jagiellonia
+4085,Legia
+4086,Lech Poznan
+4087,Cracovia
+4088,GKS Belchatow
+4089,Podbeskidzie
+4090,Zawisza
+4091,Gornik Z.
+4092,Lechia Gdansk
+4093,Pogon Szczecin
+4094,Wisla
+4095,Korona Kielce
+4096,Leczna
+4097,Piast Gliwice
+4098,Ruch
+4099,Jagiellonia
+4100,Lech Poznan
+4101,Legia
+4102,Slask Wroclaw
+4103,Wisla
+4104,Lechia Gdansk
+4105,Ruch
+4106,Zaglebie
+4107,Lech Poznan
+4108,Korona Kielce
+4109,Slask Wroclaw
+4110,Piast Gliwice
+4111,Ruch
+4112,Cracovia
+4113,Zaglebie
+4114,Lech Poznan
+4115,Jagiellonia
+4116,Pogon Szczecin
+4117,Legia
+4118,Leczna
+4119,Piast Gliwice
+4120,Lechia Gdansk
+4121,Podbeskidzie
+4122,Wisla
+4123,Jagiellonia
+4124,Slask Wroclaw
+4125,Leczna
+4126,Korona Kielce
+4127,Cracovia
+4128,Termalica B-B.
+4129,Gornik Z.
+4130,Pogon Szczecin
+4131,Lech Poznan
+4132,Slask Wroclaw
+4133,Legia
+4134,Ruch
+4135,Korona Kielce
+4136,Zaglebie
+4137,Termalica B-B.
+4138,Leczna
+4139,Piast Gliwice
+4140,Jagiellonia
+4141,Wisla
+4142,Podbeskidzie
+4143,Pogon Szczecin
+4144,Lechia Gdansk
+4145,Ruch
+4146,Slask Wroclaw
+4147,Cracovia
+4148,Lech Poznan
+4149,Legia
+4150,Gornik Z.
+4151,Podbeskidzie
+4152,Wisla
+4153,Piast Gliwice
+4154,Zaglebie
+4155,Korona Kielce
+4156,Gornik Z.
+4157,Termalica B-B.
+4158,Jagiellonia
+4159,Lechia Gdansk
+4160,Legia
+4161,Slask Wroclaw
+4162,Cracovia
+4163,Lech Poznan
+4164,Pogon Szczecin
+4165,Ruch
+4166,Leczna
+4167,Gornik Z.
+4168,Zaglebie
+4169,Termalica B-B.
+4170,Podbeskidzie
+4171,Piast Gliwice
+4172,Ruch
+4173,Jagiellonia
+4174,Korona Kielce
+4175,Wisla
+4176,Slask Wroclaw
+4177,Leczna
+4178,Cracovia
+4179,Lech Poznan
+4180,Lechia Gdansk
+4181,Legia
+4182,Pogon Szczecin
+4183,Ruch
+4184,Jagiellonia
+4185,Termalica B-B.
+4186,Korona Kielce
+4187,Piast Gliwice
+4188,Gornik Z.
+4189,Zaglebie
+4190,Cracovia
+4191,Lechia Gdansk
+4192,Slask Wroclaw
+4193,Podbeskidzie
+4194,Lech Poznan
+4195,Leczna
+4196,Wisla
+4197,Legia
+4198,Pogon Szczecin
+4199,Ruch
+4200,Jagiellonia
+4201,Cracovia
+4202,Piast Gliwice
+4203,Zaglebie
+4204,Termalica B-B.
+4205,Legia
+4206,Gornik Z.
+4207,Pogon Szczecin
+4208,Leczna
+4209,Wisla
+4210,Piast Gliwice
+4211,Lechia Gdansk
+4212,Slask Wroclaw
+4213,Korona Kielce
+4214,Podbeskidzie
+4215,Zaglebie
+4216,Cracovia
+4217,Termalica B-B.
+4218,Ruch
+4219,Jagiellonia
+4220,Gornik Z.
+4221,Lech Poznan
+4222,Legia
+4223,Termalica B-B.
+4224,Gornik Z.
+4225,Jagiellonia
+4226,Leczna
+4227,Legia
+4228,Podbeskidzie
+4229,Pogon Szczecin
+4230,Cracovia
+4231,Korona Kielce
+4232,Piast Gliwice
+4233,Gornik Z.
+4234,Slask Wroclaw
+4235,Lechia Gdansk
+4236,Podbeskidzie
+4237,Wisla
+4238,Ruch
+4239,Termalica B-B.
+4240,Gornik Z.
+4241,Zaglebie
+4242,Legia
+4243,Pogon Szczecin
+4244,Cracovia
+4245,Lech Poznan
+4246,Zaglebie
+4247,Jagiellonia
+4248,Korona Kielce
+4249,Piast Gliwice
+4250,Podbeskidzie
+4251,Lechia Gdansk
+4252,Wisla
+4253,Leczna
+4254,Slask Wroclaw
+4255,Ruch
+4256,Pogon Szczecin
+4257,Gornik Z.
+4258,Lechia Gdansk
+4259,Lech Poznan
+4260,Legia
+4261,Cracovia
+4262,Termalica B-B.
+4263,Zaglebie
+4264,Wisla
+4265,Termalica B-B.
+4266,Jagiellonia
+4267,Leczna
+4268,Korona Kielce
+4269,Piast Gliwice
+4270,Podbeskidzie
+4271,Ruch
+4272,Slask Wroclaw
+4273,Leczna
+4274,Cracovia
+4275,Lechia Gdansk
+4276,Lech Poznan
+4277,Legia
+4278,Pogon Szczecin
+4279,Jagiellonia
+4280,Piast Gliwice
+4281,Korona Kielce
+4282,Podbeskidzie
+4283,Termalica B-B.
+4284,Zaglebie
+4285,Gornik Z.
+4286,Wisla
+4287,Slask Wroclaw
+4288,Cracovia
+4289,Leczna
+4290,Lechia Gdansk
+4291,Wisla
+4292,Lech Poznan
+4293,Pogon Szczecin
+4294,Legia
+4295,Podbeskidzie
+4296,Zaglebie
+4297,Ruch
+4298,Termalica B-B.
+4299,Gornik Z.
+4300,Jagiellonia
+4301,Podbeskidzie
+4302,Wisla
+4303,Leczna
+4304,Slask Wroclaw
+4305,Legia
+4306,Lechia Gdansk
+4307,Lech Poznan
+4308,Pogon Szczecin
+4309,Korona Kielce
+4310,Piast Gliwice
+4311,Korona Kielce
+4312,Piast Gliwice
+4313,Jagiellonia
+4314,Cracovia
+4315,Ruch
+4316,Zaglebie
+4317,Gornik Z.
+4318,Termalica B-B.
+4319,Korona Kielce
+4320,Wisla
+4321,Podbeskidzie
+4322,Slask Wroclaw
+4323,Lech Poznan
+4324,Lechia Gdansk
+4325,Leczna
+4326,Pogon Szczecin
+4327,Gornik Z.
+4328,Lech Poznan
+4329,Termalica B-B.
+4330,Cracovia
+4331,Legia
+4332,Zaglebie
+4333,Ruch
+4334,Jagiellonia
+4335,Korona Kielce
+4336,Lechia Gdansk
+4337,Leczna
+4338,Piast Gliwice
+4339,Podbeskidzie
+4340,Pogon Szczecin
+4341,Slask Wroclaw
+4342,Wisla
+4343,Pogon Szczecin
+4344,Legia
+4345,Korona Kielce
+4346,Zaglebie
+4347,Piast Gliwice
+4348,Jagiellonia
+4349,Podbeskidzie
+4350,Wisla
+4351,Cracovia
+4352,Lech Poznan
+4353,Lechia Gdansk
+4354,Ruch
+4355,Leczna
+4356,Termalica B-B.
+4357,Gornik Z.
+4358,Slask Wroclaw
+4359,Zaglebie
+4360,Legia
+4361,Korona Kielce
+4362,Podbeskidzie
+4363,Pogon Szczecin
+4364,Jagiellonia
+4365,Piast Gliwice
+4366,Wisla
+4367,Lech Poznan
+4368,Zaglebie
+4369,Gornik Z.
+4370,Ruch
+4371,Termalica B-B.
+4372,Korona Kielce
+4373,Jagiellonia
+4374,Piast Gliwice
+4375,Podbeskidzie
+4376,Wisla
+4377,Slask Wroclaw
+4378,Leczna
+4379,Lechia Gdansk
+4380,Cracovia
+4381,Pogon Szczecin
+4382,Legia
+4383,Gornik Z.
+4384,Jagiellonia
+4385,Leczna
+4386,Wisla
+4387,Lechia Gdansk
+4388,Pogon Szczecin
+4389,Ruch
+4390,Zaglebie
+4391,Korona Kielce
+4392,Podbeskidzie
+4393,Slask Wroclaw
+4394,Termalica B-B.
+4395,Cracovia
+4396,Lech Poznan
+4397,Legia
+4398,Piast Gliwice
+4399,Wisla Plock
+4400,Slask Wroclaw
+4401,Ruch
+4402,Wisla
+4403,Legia
+4404,Zaglebie
+4405,Cracovia
+4406,Termalica B-B.
+4407,Pogon Szczecin
+4408,Arka Gdynia
+4409,Jagiellonia
+4410,Legia
+4411,Piast Gliwice
+4412,Termalica B-B.
+4413,Lech Poznan
+4414,Leczna
+4415,Arka Gdynia
+4416,Lech Poznan
+4417,Lechia Gdansk
+4418,Wisla Plock
+4419,Leczna
+4420,Zaglebie
+4421,Korona Kielce
+4422,Pogon Szczecin
+4423,Jagiellonia
+4424,Cracovia
+4425,Termalica B-B.
+4426,Slask Wroclaw
+4427,Korona Kielce
+4428,Zaglebie
+4429,Legia
+4430,Ruch
+4431,Lechia Gdansk
+4432,Lech Poznan
+4433,Arka Gdynia
+4434,Leczna
+4435,Pogon Szczecin
+4436,Piast Gliwice
+4437,Wisla
+4438,Wisla Plock
+4439,Slask Wroclaw
+4440,Termalica B-B.
+4441,Cracovia
+4442,Piast Gliwice
+4443,Legia
+4444,Zaglebie
+4445,Jagiellonia
+4446,Korona Kielce
+4447,Wisla Plock
+4448,Wisla
+4449,Pogon Szczecin
+4450,Leczna
+4451,Arka Gdynia
+4452,Lech Poznan
+4453,Lechia Gdansk
+4454,Ruch
+4455,Cracovia
+4456,Zaglebie
+4457,Piast Gliwice
+4458,Korona Kielce
+4459,Termalica B-B.
+4460,Lech Poznan
+4461,Jagiellonia
+4462,Slask Wroclaw
+4463,Ruch
+4464,Slask Wroclaw
+4465,Leczna
+4466,Wisla Plock
+4467,Wisla
+4468,Lechia Gdansk
+4469,Legia
+4470,Arka Gdynia
+4471,Termalica B-B.
+4472,Wisla
+4473,Pogon Szczecin
+4474,Lechia Gdansk
+4475,Zaglebie
+4476,Korona Kielce
+4477,Lech Poznan
+4478,Piast Gliwice
+4479,Ruch
+4480,Leczna
+4481,Arka Gdynia
+4482,Wisla Plock
+4483,Legia
+4484,Cracovia
+4485,Slask Wroclaw
+4486,Jagiellonia
+4487,Cracovia
+4488,Pogon Szczecin
+4489,Leczna
+4490,Piast Gliwice
+4491,Zaglebie
+4492,Termalica B-B.
+4493,Lech Poznan
+4494,Korona Kielce
+4495,Arka Gdynia
+4496,Wisla
+4497,Wisla Plock
+4498,Slask Wroclaw
+4499,Legia
+4500,Lechia Gdansk
+4501,Jagiellonia
+4502,Ruch
+4503,Piast Gliwice
+4504,Korona Kielce
+4505,Leczna
+4506,Pogon Szczecin
+4507,Lech Poznan
+4508,Cracovia
+4509,Arka Gdynia
+4510,Zaglebie
+4511,Wisla Plock
+4512,Ruch
+4513,Termalica B-B.
+4514,Jagiellonia
+4515,Lechia Gdansk
+4516,Slask Wroclaw
+4517,Wisla
+4518,Legia
+4519,Piast Gliwice
+4520,Jagiellonia
+4521,Leczna
+4522,Pogon Szczecin
+4523,Lechia Gdansk
+4524,Arka Gdynia
+4525,Lech Poznan
+4526,Korona Kielce
+4527,Cracovia
+4528,Zaglebie
+4529,Korona Kielce
+4530,Ruch
+4531,Wisla
+4532,Wisla Plock
+4533,Slask Wroclaw
+4534,Lechia Gdansk
+4535,Termalica B-B.
+4536,Legia
+4537,Piast Gliwice
+4538,Slask Wroclaw
+4539,Wisla
+4540,Cracovia
+4541,Jagiellonia
+4542,Ruch
+4543,Pogon Szczecin
+4544,Lechia Gdansk
+4545,Leczna
+4546,Wisla Plock
+4547,Wisla
+4548,Lech Poznan
+4549,Piast Gliwice
+4550,Arka Gdynia
+4551,Termalica B-B.
+4552,Ruch
+4553,Korona Kielce
+4554,Jagiellonia
+4555,Cracovia
+4556,Slask Wroclaw
+4557,Legia
+4558,Zaglebie
+4559,Ruch
+4560,Lech Poznan
+4561,Wisla
+4562,Arka Gdynia
+4563,Wisla Plock
+4564,Lechia Gdansk
+4565,Pogon Szczecin
+4566,Jagiellonia
+4567,Termalica B-B.
+4568,Korona Kielce
+4569,Slask Wroclaw
+4570,Piast Gliwice
+4571,Cracovia
+4572,Legia
+4573,Zaglebie
+4574,Arka Gdynia
+4575,Pogon Szczecin
+4576,Wisla Plock
+4577,Lechia Gdansk
+4578,Wisla
+4579,Leczna
+4580,Legia
+4581,Ruch
+4582,Korona Kielce
+4583,Zaglebie
+4584,Cracovia
+4585,Termalica B-B.
+4586,Piast Gliwice
+4587,Jagiellonia
+4588,Lech Poznan
+4589,Pogon Szczecin
+4590,Leczna
+4591,Slask Wroclaw
+4592,Arka Gdynia
+4593,Wisla Plock
+4594,Ruch
+4595,Jagiellonia
+4596,Leczna
+4597,Legia
+4598,Cracovia
+4599,Termalica B-B.
+4600,Wisla
+4601,Piast Gliwice
+4602,Zaglebie
+4603,Pogon Szczecin
+4604,Korona Kielce
+4605,Lech Poznan
+4606,Lechia Gdansk
+4607,Slask Wroclaw
+4608,Wisla
+4609,Arka Gdynia
+4610,Wisla Plock
+4611,Legia
+4612,Jagiellonia
+4613,Lechia Gdansk
+4614,Ruch
+4615,Cracovia
+4616,Zaglebie
+4617,Leczna
+4618,Pogon Szczecin
+4619,Termalica B-B.
+4620,Piast Gliwice
+4621,Lech Poznan
+4622,Korona Kielce
+4623,Ruch
+4624,Slask Wroclaw
+4625,Jagiellonia
+4626,Wisla Plock
+4627,Legia
+4628,Termalica B-B.
+4629,Lechia Gdansk
+4630,Wisla
+4631,Arka Gdynia
+4632,Cracovia
+4633,Korona Kielce
+4634,Lech Poznan
+4635,Leczna
+4636,Piast Gliwice
+4637,Pogon Szczecin
+4638,Zaglebie
+4639,Arka Gdynia
+4640,Lech Poznan
+4641,Wisla Plock
+4642,Slask Wroclaw
+4643,Lechia Gdansk
+4644,Jagiellonia
+4645,Legia
+4646,Zaglebie
+4647,Ruch
+4648,Korona Kielce
+4649,Piast Gliwice
+4650,Leczna
+4651,Wisla
+4652,Termalica B-B.
+4653,Pogon Szczecin
+4654,Cracovia
+4655,Zaglebie
+4656,Arka Gdynia
+4657,Jagiellonia
+4658,Slask Wroclaw
+4659,Wisla Plock
+4660,Lech Poznan
+4661,Lechia Gdansk
+4662,Legia
+4663,Arka Gdynia
+4664,Leczna
+4665,Ruch
+4666,Zaglebie
+4667,Korona Kielce
+4668,Lechia Gdansk
+4669,Legia
+4670,Pogon Szczecin
+4671,Slask Wroclaw
+4672,Cracovia
+4673,Wisla Plock
+4674,Piast Gliwice
+4675,Wisla
+4676,Lech Poznan
+4677,Jagiellonia
+4678,Termalica B-B.
+4679,Arka Gdynia
+4680,Leczna
+4681,Piast Gliwice
+4682,Slask Wroclaw
+4683,Korona Kielce
+4684,Lech Poznan
+4685,Lechia Gdansk
+4686,Termalica B-B.
+4687,Cracovia
+4688,Wisla Plock
+4689,Ruch
+4690,Zaglebie
+4691,Jagiellonia
+4692,Legia
+4693,Pogon Szczecin
+4694,Wisla
+4695,Wisla Plock
+4696,Pogon Szczecin
+4697,Cracovia
+4698,Gornik Z.
+4699,Arka Gdynia
+4700,Termalica B-B.
+4701,Lech Poznan
+4702,Korona Kielce
+4703,Sandecja Nowy S.
+4704,Wisla
+4705,Piast Gliwice
+4706,Lechia Gdansk
+4707,Legia
+4708,Wisla Plock
+4709,Jagiellonia
+4710,Zaglebie
+4711,Termalica B-B.
+4712,Slask Wroclaw
+4713,Legia
+4714,Gornik Z.
+4715,Arka Gdynia
+4716,Pogon Szczecin
+4717,Lech Poznan
+4718,Korona Kielce
+4719,Piast Gliwice
+4720,Wisla Plock
+4721,Lechia Gdansk
+4722,Zaglebie
+4723,Termalica B-B.
+4724,Jagiellonia
+4725,Cracovia
+4726,Arka Gdynia
+4727,Legia
+4728,Sandecja Nowy S.
+4729,Lech Poznan
+4730,Wisla
+4731,Gornik Z.
+4732,Korona Kielce
+4733,Pogon Szczecin
+4734,Slask Wroclaw
+4735,Lechia Gdansk
+4736,Cracovia
+4737,Arka Gdynia
+4738,Piast Gliwice
+4739,Jagiellonia
+4740,Wisla Plock
+4741,Termalica B-B.
+4742,Zaglebie
+4743,Gornik Z.
+4744,Slask Wroclaw
+4745,Korona Kielce
+4746,Jagiellonia
+4747,Wisla
+4748,Lech Poznan
+4749,Sandecja Nowy S.
+4750,Legia
+4751,Zaglebie
+4752,Arka Gdynia
+4753,Korona Kielce
+4754,Slask Wroclaw
+4755,Cracovia
+4756,Termalica B-B.
+4757,Pogon Szczecin
+4758,Piast Gliwice
+4759,Arka Gdynia
+4760,Lech Poznan
+4761,Wisla Plock
+4762,Gornik Z.
+4763,Wisla
+4764,Sandecja Nowy S.
+4765,Legia
+4766,Lechia Gdansk
+4767,Piast Gliwice
+4768,Slask Wroclaw
+4769,Termalica B-B.
+4770,Pogon Szczecin
+4771,Korona Kielce
+4772,Zaglebie
+4773,Jagiellonia
+4774,Cracovia
+4775,Sandecja Nowy S.
+4776,Arka Gdynia
+4777,Lechia Gdansk
+4778,Pogon Szczecin
+4779,Wisla
+4780,Gornik Z.
+4781,Wisla Plock
+4782,Lech Poznan
+4783,Korona Kielce
+4784,Jagiellonia
+4785,Piast Gliwice
+4786,Termalica B-B.
+4787,Slask Wroclaw
+4788,Zaglebie
+4789,Legia
+4790,Cracovia
+4791,Zaglebie
+4792,Gornik Z.
+4793,Sandecja Nowy S.
+4794,Pogon Szczecin
+4795,Lechia Gdansk
+4796,Arka Gdynia
+4797,Wisla
+4798,Wisla Plock
+4799,Slask Wroclaw
+4800,Lech Poznan
+4801,Piast Gliwice
+4802,Cracovia
+4803,Sandecja Nowy S.
+4804,Jagiellonia
+4805,Legia
+4806,Lechia Gdansk
+4807,Korona Kielce
+4808,Arka Gdynia
+4809,Wisla Plock
+4810,Wisla
+4811,Gornik Z.
+4812,Termalica B-B.
+4813,Zaglebie
+4814,Pogon Szczecin
+4815,Jagiellonia
+4816,Wisla
+4817,Piast Gliwice
+4818,Sandecja Nowy S.
+4819,Lechia Gdansk
+4820,Slask Wroclaw
+4821,Legia
+4822,Zaglebie
+4823,Cracovia
+4824,Gornik Z.
+4825,Pogon Szczecin
+4826,Arka Gdynia
+4827,Korona Kielce
+4828,Lech Poznan
+4829,Slask Wroclaw
+4830,Termalica B-B.
+4831,Jagiellonia
+4832,Lechia Gdansk
+4833,Wisla Plock
+4834,Zaglebie
+4835,Sandecja Nowy S.
+4836,Piast Gliwice
+4837,Wisla
+4838,Cracovia
+4839,Sandecja Nowy S.
+4840,Gornik Z.
+4841,Slask Wroclaw
+4842,Korona Kielce
+4843,Legia
+4844,Pogon Szczecin
+4845,Wisla
+4846,Lech Poznan
+4847,Jagiellonia
+4848,Piast Gliwice
+4849,Arka Gdynia
+4850,Termalica B-B.
+4851,Lechia Gdansk
+4852,Zaglebie
+4853,Cracovia
+4854,Wisla Plock
+4855,Korona Kielce
+4856,Slask Wroclaw
+4857,Pogon Szczecin
+4858,Sandecja Nowy S.
+4859,Legia
+4860,Lech Poznan
+4861,Wisla
+4862,Gornik Z.
+4863,Wisla Plock
+4864,Zaglebie
+4865,Pogon Szczecin
+4866,Cracovia
+4867,Lechia Gdansk
+4868,Termalica B-B.
+4869,Arka Gdynia
+4870,Piast Gliwice
+4871,Sandecja Nowy S.
+4872,Legia
+4873,Wisla Plock
+4874,Jagiellonia
+4875,Wisla
+4876,Lechia Gdansk
+4877,Lech Poznan
+4878,Gornik Z.
+4879,Zaglebie
+4880,Jagiellonia
+4881,Termalica B-B.
+4882,Pogon Szczecin
+4883,Cracovia
+4884,Piast Gliwice
+4885,Slask Wroclaw
+4886,Korona Kielce
+4887,Lechia Gdansk
+4888,Wisla Plock
+4889,Legia
+4890,Sandecja Nowy S.
+4891,Gornik Z.
+4892,Wisla
+4893,Arka Gdynia
+4894,Lech Poznan
+4895,Termalica B-B.
+4896,Zaglebie
+4897,Slask Wroclaw
+4898,Korona Kielce
+4899,Piast Gliwice
+4900,Cracovia
+4901,Legia
+4902,Jagiellonia
+4903,Gornik Z.
+4904,Wisla
+4905,Sandecja Nowy S.
+4906,Pogon Szczecin
+4907,Wisla Plock
+4908,Lech Poznan
+4909,Lechia Gdansk
+4910,Arka Gdynia
+4911,Piast Gliwice
+4912,Lech Poznan
+4913,Termalica B-B.
+4914,Jagiellonia
+4915,Korona Kielce
+4916,Cracovia
+4917,Slask Wroclaw
+4918,Legia
+4919,Gornik Z.
+4920,Termalica B-B.
+4921,Korona Kielce
+4922,Arka Gdynia
+4923,Wisla Plock
+4924,Zaglebie
+4925,Pogon Szczecin
+4926,Wisla
+4927,Cracovia
+4928,Jagiellonia
+4929,Lech Poznan
+4930,Lechia Gdansk
+4931,Legia
+4932,Piast Gliwice
+4933,Sandecja Nowy S.
+4934,Slask Wroclaw
+4935,Arka Gdynia
+4936,Lech Poznan
+4937,Cracovia
+4938,Jagiellonia
+4939,Legia
+4940,Pogon Szczecin
+4941,Slask Wroclaw
+4942,Wisla Plock
+4943,Termalica B-B.
+4944,Zaglebie
+4945,Piast Gliwice
+4946,Gornik Z.
+4947,Korona Kielce
+4948,Sandecja Nowy S.
+4949,Wisla
+4950,Lechia Gdansk
+4951,Arka Gdynia
+4952,Legia
+4953,Wisla Plock
+4954,Pogon Szczecin
+4955,Lech Poznan
+4956,Cracovia
+4957,Jagiellonia
+4958,Slask Wroclaw
+4959,Cracovia
+4960,Lechia Gdansk
+4961,Sandecja Nowy S.
+4962,Pogon Szczecin
+4963,Wisla Plock
+4964,Korona Kielce
+4965,Zaglebie
+4966,Jagiellonia
+4967,Piast Gliwice
+4968,Termalica B-B.
+4969,Arka Gdynia
+4970,Slask Wroclaw
+4971,Gornik Z.
+4972,Legia
+4973,Lech Poznan
+4974,Wisla
+4975,Pogon Szczecin
+4976,Sandecja Nowy S.
+4977,Slask Wroclaw
+4978,Termalica B-B.
+4979,Legia
+4980,Wisla Plock
+4981,Wisla
+4982,Zaglebie
+4983,Arka Gdynia
+4984,Cracovia
+4985,Lechia Gdansk
+4986,Piast Gliwice
+4987,Gornik Z.
+4988,Jagiellonia
+4989,Korona Kielce
+4990,Lech Poznan
+4991,Legnica
+4992,Jagiellonia
+4993,Slask Wroclaw
+4994,Wisla
+4995,Legia
+4996,Gornik Z.
+4997,Wisla Plock
+4998,Zaglebie Sosnowiec
+4999,Lechia Gdansk
+5000,Wisla
+5001,Zaglebie
+5002,Korona Kielce
+5003,Gornik Z.
+5004,Arka Gdynia
+5005,Lech Poznan
+5006,Pogon Szczecin
+5007,Wisla Plock
+5008,Zaglebie Sosnowiec
+5009,Piast Gliwice
+5010,Legia
+5011,Slask Wroclaw
+5012,Jagiellonia
+5013,Legnica
+5014,Cracovia
+5015,Lechia Gdansk
+5016,Wisla
+5017,Pogon Szczecin
+5018,Arka Gdynia
+5019,Piast Gliwice
+5020,Lech Poznan
+5021,Zaglebie
+5022,Korona Kielce
+5023,Cracovia
+5024,Legnica
+5025,Wisla Plock
+5026,Gornik Z.
+5027,Legia
+5028,Jagiellonia
+5029,Lech Poznan
+5030,Slask Wroclaw
+5031,Piast Gliwice
+5032,Korona Kielce
+5033,Pogon Szczecin
+5034,Wisla
+5035,Jagiellonia
+5036,Legia
+5037,Zaglebie
+5038,Zaglebie Sosnowiec
+5039,Gornik Z.
+5040,Lechia Gdansk
+5041,Arka Gdynia
+5042,Slask Wroclaw
+5043,Lech Poznan
+5044,Legnica
+5045,Wisla Plock
+5046,Cracovia
+5047,Zaglebie
+5048,Jagiellonia
+5049,Wisla Plock
+5050,Piast Gliwice
+5051,Wisla
+5052,Pogon Szczecin
+5053,Legia
+5054,Zaglebie Sosnowiec
+5055,Pogon Szczecin
+5056,Arka Gdynia
+5057,Cracovia
+5058,Lechia Gdansk
+5059,Legnica
+5060,Slask Wroclaw
+5061,Gornik Z.
+5062,Korona Kielce
+5063,Wisla Plock
+5064,Legia
+5065,Piast Gliwice
+5066,Zaglebie
+5067,Wisla
+5068,Zaglebie Sosnowiec
+5069,Lech Poznan
+5070,Jagiellonia
+5071,Legnica
+5072,Gornik Z.
+5073,Pogon Szczecin
+5074,Lechia Gdansk
+5075,Slask Wroclaw
+5076,Arka Gdynia
+5077,Korona Kielce
+5078,Cracovia
+5079,Piast Gliwice
+5080,Jagiellonia
+5081,Zaglebie Sosnowiec
+5082,Slask Wroclaw
+5083,Lech Poznan
+5084,Zaglebie
+5085,Legia
+5086,Cracovia
+5087,Legnica
+5088,Jagiellonia
+5089,Wisla Plock
+5090,Lechia Gdansk
+5091,Pogon Szczecin
+5092,Korona Kielce
+5093,Gornik Z.
+5094,Wisla
+5095,Arka Gdynia
+5096,Piast Gliwice
+5097,Cracovia
+5098,Slask Wroclaw
+5099,Legia
+5100,Zaglebie
+5101,Lech Poznan
+5102,Zaglebie Sosnowiec
+5103,Gornik Z.
+5104,Pogon Szczecin
+5105,Wisla Plock
+5106,Lechia Gdansk
+5107,Wisla
+5108,Korona Kielce
+5109,Legnica
+5110,Jagiellonia
+5111,Piast Gliwice
+5112,Korona Kielce
+5113,Lech Poznan
+5114,Cracovia
+5115,Pogon Szczecin
+5116,Zaglebie
+5117,Lechia Gdansk
+5118,Arka Gdynia
+5119,Slask Wroclaw
+5120,Jagiellonia
+5121,Wisla Plock
+5122,Legnica
+5123,Legia
+5124,Zaglebie Sosnowiec
+5125,Cracovia
+5126,Piast Gliwice
+5127,Zaglebie
+5128,Lech Poznan
+5129,Pogon Szczecin
+5130,Korona Kielce
+5131,Wisla
+5132,Gornik Z.
+5133,Lechia Gdansk
+5134,Arka Gdynia
+5135,Wisla Plock
+5136,Jagiellonia
+5137,Cracovia
+5138,Gornik Z.
+5139,Legia
+5140,Slask Wroclaw
+5141,Zaglebie Sosnowiec
+5142,Legnica
+5143,Pogon Szczecin
+5144,Zaglebie Sosnowiec
+5145,Arka Gdynia
+5146,Piast Gliwice
+5147,Wisla
+5148,Korona Kielce
+5149,Lechia Gdansk
+5150,Zaglebie
+5151,Legnica
+5152,Lech Poznan
+5153,Slask Wroclaw
+5154,Cracovia
+5155,Lechia Gdansk
+5156,Arka Gdynia
+5157,Wisla Plock
+5158,Gornik Z.
+5159,Pogon Szczecin
+5160,Piast Gliwice
+5161,Jagiellonia
+5162,Zaglebie Sosnowiec
+5163,Korona Kielce
+5164,Zaglebie
+5165,Legia
+5166,Wisla
+5167,Arka Gdynia
+5168,Korona Kielce
+5169,Gornik Z.
+5170,Lech Poznan
+5171,Lechia Gdansk
+5172,Legnica
+5173,Cracovia
+5174,Slask Wroclaw
+5175,Piast Gliwice
+5176,Legia
+5177,Zaglebie Sosnowiec
+5178,Jagiellonia
+5179,Wisla Plock
+5180,Wisla
+5181,Lech Poznan
+5182,Zaglebie
+5183,Gornik Z.
+5184,Slask Wroclaw
+5185,Cracovia
+5186,Korona Kielce
+5187,Arka Gdynia
+5188,Pogon Szczecin
+5189,Legnica
+5190,Lechia Gdansk
+5191,Wisla Plock
+5192,Lech Poznan
+5193,Jagiellonia
+5194,Zaglebie Sosnowiec
+5195,Legia
+5196,Piast Gliwice
+5197,Zaglebie
+5198,Wisla
+5199,Wisla Plock
+5200,Gornik Z.
+5201,Lechia Gdansk
+5202,Legnica
+5203,Arka Gdynia
+5204,Korona Kielce
+5205,Pogon Szczecin
+5206,Wisla
+5207,Cracovia
+5208,Slask Wroclaw
+5209,Arka Gdynia
+5210,Zaglebie
+5211,Lech Poznan
+5212,Piast Gliwice
+5213,Legia
+5214,Zaglebie Sosnowiec
+5215,Korona Kielce
+5216,Legnica
+5217,Jagiellonia
+5218,Wisla
+5219,Lechia Gdansk
+5220,Pogon Szczecin
+5221,Gornik Z.
+5222,Wisla Plock
+5223,Arka Gdynia
+5224,Cracovia
+5225,Lech Poznan
+5226,Legia
+5227,Piast Gliwice
+5228,Slask Wroclaw
+5229,Zaglebie
+5230,Zaglebie Sosnowiec
+5231,Lechia Gdansk
+5232,Jagiellonia
+5233,Zaglebie
+5234,Legia
+5235,Legnica
+5236,Wisla
+5237,Gornik Z.
+5238,Korona Kielce
+5239,Piast Gliwice
+5240,Cracovia
+5241,Pogon Szczecin
+5242,Lech Poznan
+5243,Arka Gdynia
+5244,Wisla Plock
+5245,Slask Wroclaw
+5246,Zaglebie Sosnowiec
+5247,Zaglebie
+5248,Piast Gliwice
+5249,Pogon Szczecin
+5250,Lechia Gdansk
+5251,Legnica
+5252,Korona Kielce
+5253,Wisla
+5254,Gornik Z.
+5255,Wisla Plock
+5256,Gornik Z.
+5257,Korona Kielce
+5258,Lech Poznan
+5259,Legia
+5260,Zaglebie Sosnowiec
+5261,Cracovia
+5262,Jagiellonia
+5263,Arka Gdynia
+5264,Wisla
+5265,Slask Wroclaw
+5266,Legnica
+5267,Cracovia
+5268,Piast Gliwice
+5269,Legia
+5270,Lechia Gdansk
+5271,Arka Gdynia
+5272,Gornik Z.
+5273,Legnica
+5274,Zaglebie Sosnowiec
+5275,Jagiellonia
+5276,Lech Poznan
+5277,Pogon Szczecin
+5278,Zaglebie
+5279,Korona Kielce
+5280,Wisla Plock
+5281,Slask Wroclaw
+5282,Wisla
+5283,Cracovia
+5284,Lechia Gdansk
+5285,Legia
+5286,Piast Gliwice
+5287,Arka Gdynia
+5288,LKS Lodz
+5289,Rakow
+5290,Wisla
+5291,Piast Gliwice
+5292,Zaglebie
+5293,Legia
+5294,Wisla Plock
+5295,Gornik Z.
+5296,Lech Poznan
+5297,Cracovia
+5298,Jagiellonia
+5299,Korona Kielce
+5300,Lechia Gdansk
+5301,Slask Wroclaw
+5302,Pogon Szczecin
+5303,Arka Gdynia
+5304,Zaglebie
+5305,Rakow
+5306,LKS Lodz
+5307,Wisla Plock
+5308,Legia
+5309,Piast Gliwice
+5310,Wisla
+5311,Lech Poznan
+5312,Pogon Szczecin
+5313,Zaglebie
+5314,Gornik Z.
+5315,LKS Lodz
+5316,Cracovia
+5317,Lechia Gdansk
+5318,Wisla
+5319,Slask Wroclaw
+5320,Arka Gdynia
+5321,Jagiellonia
+5322,Piast Gliwice
+5323,Legia
+5324,Rakow
+5325,Korona Kielce
+5326,Jagiellonia
+5327,Cracovia
+5328,Lechia Gdansk
+5329,Rakow
+5330,Gornik Z.
+5331,LKS Lodz
+5332,Zaglebie
+5333,Pogon Szczecin
+5334,Arka Gdynia
+5335,Korona Kielce
+5336,Wisla Plock
+5337,Piast Gliwice
+5338,Wisla
+5339,Slask Wroclaw
+5340,Lech Poznan
+5341,Legia
+5342,Zaglebie
+5343,Jagiellonia
+5344,Rakow
+5345,Lechia Gdansk
+5346,Korona Kielce
+5347,Pogon Szczecin
+5348,Gornik Z.
+5349,Cracovia
+5350,Wisla Plock
+5351,Piast Gliwice
+5352,Lech Poznan
+5353,LKS Lodz
+5354,Lechia Gdansk
+5355,Slask Wroclaw
+5356,Wisla Plock
+5357,Pogon Szczecin
+5358,Cracovia
+5359,Korona Kielce
+5360,Rakow
+5361,Legia
+5362,Gornik Z.
+5363,Arka Gdynia
+5364,Jagiellonia
+5365,Wisla
+5366,Zaglebie
+5367,Wisla Plock
+5368,Slask Wroclaw
+5369,Pogon Szczecin
+5370,Lech Poznan
+5371,Lechia Gdansk
+5372,LKS Lodz
+5373,Cracovia
+5374,Piast Gliwice
+5375,Zaglebie
+5376,Wisla
+5377,Korona Kielce
+5378,Legia
+5379,Jagiellonia
+5380,Arka Gdynia
+5381,Gornik Z.
+5382,Rakow
+5383,Cracovia
+5384,Lech Poznan
+5385,LKS Lodz
+5386,Piast Gliwice
+5387,Lechia Gdansk
+5388,Wisla Plock
+5389,Slask Wroclaw
+5390,Legia
+5391,Korona Kielce
+5392,Cracovia
+5393,Pogon Szczecin
+5394,Jagiellonia
+5395,Gornik Z.
+5396,Arka Gdynia
+5397,Slask Wroclaw
+5398,Rakow
+5399,LKS Lodz
+5400,Piast Gliwice
+5401,Wisla Plock
+5402,Legia
+5403,Wisla
+5404,Zaglebie
+5405,Lech Poznan
+5406,Lechia Gdansk
+5407,Gornik Z.
+5408,Lech Poznan
+5409,Korona Kielce
+5410,Pogon Szczecin
+5411,Lechia Gdansk
+5412,Jagiellonia
+5413,Slask Wroclaw
+5414,Cracovia
+5415,Zaglebie
+5416,Wisla Plock
+5417,Arka Gdynia
+5418,Piast Gliwice
+5419,Legia
+5420,Rakow
+5421,LKS Lodz
+5422,Wisla
+5423,Korona Kielce
+5424,Gornik Z.
+5425,Jagiellonia
+5426,Lech Poznan
+5427,Lechia Gdansk
+5428,Cracovia
+5429,Pogon Szczecin
+5430,Slask Wroclaw
+5431,Arka Gdynia
+5432,Wisla
+5433,Rakow
+5434,Slask Wroclaw
+5435,Legia
+5436,Piast Gliwice
+5437,Korona Kielce
+5438,Jagiellonia
+5439,LKS Lodz
+5440,Lech Poznan
+5441,Cracovia
+5442,Pogon Szczecin
+5443,Zaglebie
+5444,Lechia Gdansk
+5445,Wisla Plock
+5446,Gornik Z.
+5447,Arka Gdynia
+5448,Slask Wroclaw
+5449,Korona Kielce
+5450,Lech Poznan
+5451,Wisla
+5452,Wisla Plock
+5453,Piast Gliwice
+5454,Legia
+5455,Gornik Z.
+5456,Lechia Gdansk
+5457,LKS Lodz
+5458,Pogon Szczecin
+5459,Rakow
+5460,Jagiellonia
+5461,Zaglebie
+5462,Cracovia
+5463,LKS Lodz
+5464,Slask Wroclaw
+5465,Arka Gdynia
+5466,Legia
+5467,Piast Gliwice
+5468,Wisla Plock
+5469,Wisla
+5470,Lech Poznan
+5471,Rakow
+5472,Jagiellonia
+5473,Wisla
+5474,Gornik Z.
+5475,Legia
+5476,Korona Kielce
+5477,Arka Gdynia
+5478,Zaglebie
+5479,Lech Poznan
+5480,Wisla Plock
+5481,Cracovia
+5482,Pogon Szczecin
+5483,LKS Lodz
+5484,Slask Wroclaw
+5485,Lechia Gdansk
+5486,Piast Gliwice
+5487,Gornik Z.
+5488,Arka Gdynia
+5489,Zaglebie
+5490,Jagiellonia
+5491,Rakow
+5492,Wisla
+5493,Legia
+5494,Korona Kielce
+5495,Slask Wroclaw
+5496,Pogon Szczecin
+5497,LKS Lodz
+5498,Piast Gliwice
+5499,Lech Poznan
+5500,Wisla Plock
+5501,Cracovia
+5502,Lechia Gdansk
+5503,Korona Kielce
+5504,Gornik Z.
+5505,Jagiellonia
+5506,Zaglebie
+5507,Pogon Szczecin
+5508,Rakow
+5509,Arka Gdynia
+5510,Wisla
+5511,Lechia Gdansk
+5512,Piast Gliwice
+5513,Lech Poznan
+5514,Zaglebie
+5515,Wisla
+5516,Wisla Plock
+5517,Legia
+5518,LKS Lodz
+5519,Arka Gdynia
+5520,Cracovia
+5521,Gornik Z.
+5522,Jagiellonia
+5523,Korona Kielce
+5524,Pogon Szczecin
+5525,Rakow
+5526,Slask Wroclaw
+5527,Zaglebie
+5528,Gornik Z.
+5529,Wisla Plock
+5530,Piast Gliwice
+5531,Rakow
+5532,Pogon Szczecin
+5533,Cracovia
+5534,Legia
+5535,Arka Gdynia
+5536,Korona Kielce
+5537,LKS Lodz
+5538,Wisla
+5539,Lechia Gdansk
+5540,Jagiellonia
+5541,Lech Poznan
+5542,Slask Wroclaw
+5543,Rakow
+5544,Zaglebie
+5545,Wisla Plock
+5546,Legia
+5547,Gornik Z.
+5548,Jagiellonia
+5549,Slask Wroclaw
+5550,Cracovia
+5551,LKS Lodz
+5552,Korona Kielce
+5553,Rakow
+5554,Lech Poznan
+5555,Lechia Gdansk
+5556,Pogon Szczecin
+5557,Piast Gliwice
+5558,Wisla Plock
+5559,Zaglebie
+5560,Gornik Z.
+5561,Arka Gdynia
+5562,Legia
+5563,Wisla
+5564,Slask Wroclaw
+5565,Piast Gliwice
+5566,Lech Poznan
+5567,Arka Gdynia
+5568,LKS Lodz
+5569,Wisla Plock
+5570,Zaglebie
+5571,Cracovia
+5572,Jagiellonia
+5573,Lechia Gdansk
+5574,Pogon Szczecin
+5575,Gornik Z.
+5576,Korona Kielce
+5577,Rakow
+5578,Wisla
+5579,Lech Poznan
+5580,Legia
+5581,Piast Gliwice
+5582,Slask Wroclaw
+5583,Zaglebie
+5584,Cracovia
+5585,Slask Wroclaw
+5586,Rakow
+5587,Wisla Plock
+5588,Warta Poznan
+5589,Gornik Z.
+5590,Jagiellonia
+5591,Zaglebie
+5592,Stal Mielec
+5593,Lechia Gdansk
+5594,Wisla
+5595,Legia
+5596,Piast Gliwice
+5597,Podbeskidzie
+5598,Lech Poznan
+5599,Jagiellonia
+5600,Wisla Plock
+5601,Cracovia
+5602,Warta Poznan
+5603,Slask Wroclaw
+5604,Pogon Szczecin
+5605,Gornik Z.
+5606,Rakow
+5607,Podbeskidzie
+5608,Wisla
+5609,Lechia Gdansk
+5610,Pogon Szczecin
+5611,Legia
+5612,Zaglebie
+5613,Lech Poznan
+5614,Piast Gliwice
+5615,Wisla Plock
+5616,Gornik Z.
+5617,Cracovia
+5618,Lechia Gdansk
+5619,Jagiellonia
+5620,Stal Mielec
+5621,Rakow
+5622,Slask Wroclaw
+5623,Podbeskidzie
+5624,Zaglebie
+5625,Piast Gliwice
+5626,Cracovia
+5627,Gornik Z.
+5628,Jagiellonia
+5629,Wisla Plock
+5630,Stal Mielec
+5631,Legia
+5632,Podbeskidzie
+5633,Lechia Gdansk
+5634,Legia
+5635,Piast Gliwice
+5636,Zaglebie
+5637,Wisla
+5638,Slask Wroclaw
+5639,Pogon Szczecin
+5640,Rakow
+5641,Lech Poznan
+5642,Warta Poznan
+5643,Wisla
+5644,Pogon Szczecin
+5645,Warta Poznan
+5646,Stal Mielec
+5647,Cracovia
+5648,Slask Wroclaw
+5649,Legia
+5650,Rakow
+5651,Pogon Szczecin
+5652,Lechia Gdansk
+5653,Gornik Z.
+5654,Zaglebie
+5655,Warta Poznan
+5656,Lech Poznan
+5657,Cracovia
+5658,Piast Gliwice
+5659,Jagiellonia
+5660,Podbeskidzie
+5661,Wisla Plock
+5662,Gornik Z.
+5663,Stal Mielec
+5664,Podbeskidzie
+5665,Wisla
+5666,Rakow
+5667,Legia
+5668,Lechia Gdansk
+5669,Wisla Plock
+5670,Cracovia
+5671,Jagiellonia
+5672,Slask Wroclaw
+5673,Legia
+5674,Piast Gliwice
+5675,Lech Poznan
+5676,Pogon Szczecin
+5677,Wisla Plock
+5678,Podbeskidzie
+5679,Zaglebie
+5680,Warta Poznan
+5681,Gornik Z.
+5682,Wisla
+5683,Stal Mielec
+5684,Rakow
+5685,Lechia Gdansk
+5686,Lech Poznan
+5687,Slask Wroclaw
+5688,Wisla Plock
+5689,Legia
+5690,Pogon Szczecin
+5691,Cracovia
+5692,Lech Poznan
+5693,Piast Gliwice
+5694,Jagiellonia
+5695,Zaglebie
+5696,Rakow
+5697,Warta Poznan
+5698,Lechia Gdansk
+5699,Gornik Z.
+5700,Wisla
+5701,Podbeskidzie
+5702,Stal Mielec
+5703,Lechia Gdansk
+5704,Lech Poznan
+5705,Piast Gliwice
+5706,Pogon Szczecin
+5707,Legia
+5708,Podbeskidzie
+5709,Wisla
+5710,Slask Wroclaw
+5711,Cracovia
+5712,Pogon Szczecin
+5713,Rakow
+5714,Wisla Plock
+5715,Jagiellonia
+5716,Warta Poznan
+5717,Gornik Z.
+5718,Stal Mielec
+5719,Wisla
+5720,Legia
+5721,Podbeskidzie
+5722,Lechia Gdansk
+5723,Zaglebie
+5724,Lech Poznan
+5725,Piast Gliwice
+5726,Rakow
+5727,Warta Poznan
+5728,Stal Mielec
+5729,Jagiellonia
+5730,Gornik Z.
+5731,Wisla Plock
+5732,Cracovia
+5733,Slask Wroclaw
+5734,Stal Mielec
+5735,Wisla
+5736,Podbeskidzie
+5737,Zaglebie
+5738,Rakow
+5739,Piast Gliwice
+5740,Pogon Szczecin
+5741,Slask Wroclaw
+5742,Warta Poznan
+5743,Cracovia
+5744,Jagiellonia
+5745,Wisla Plock
+5746,Lechia Gdansk
+5747,Legia
+5748,Gornik Z.
+5749,Lech Poznan
+5750,Stal Mielec
+5751,Piast Gliwice
+5752,Pogon Szczecin
+5753,Slask Wroclaw
+5754,Rakow
+5755,Lech Poznan
+5756,Warta Poznan
+5757,Wisla
+5758,Zaglebie
+5759,Wisla Plock
+5760,Legia
+5761,Cracovia
+5762,Gornik Z.
+5763,Podbeskidzie
+5764,Jagiellonia
+5765,Lechia Gdansk
+5766,Jagiellonia
+5767,Wisla
+5768,Pogon Szczecin
+5769,Warta Poznan
+5770,Slask Wroclaw
+5771,Zaglebie
+5772,Lech Poznan
+5773,Piast Gliwice
+5774,Podbeskidzie
+5775,Gornik Z.
+5776,Lechia Gdansk
+5777,Rakow
+5778,Wisla
+5779,Stal Mielec
+5780,Wisla Plock
+5781,Legia
+5782,Pogon Szczecin
+5783,Warta Poznan
+5784,Lech Poznan
+5785,Slask Wroclaw
+5786,Jagiellonia
+5787,Zaglebie
+5788,Cracovia
+5789,Piast Gliwice
+5790,Rakow
+5791,Podbeskidzie
+5792,Gornik Z.
+5793,Zaglebie
+5794,Wisla
+5795,Warta Poznan
+5796,Stal Mielec
+5797,Lechia Gdansk
+5798,Jagiellonia
+5799,Wisla Plock
+5800,Slask Wroclaw
+5801,Legia
+5802,Pogon Szczecin
+5803,Lech Poznan
+5804,Piast Gliwice
+5805,Cracovia
+5806,Stal Mielec
+5807,Gornik Z.
+5808,Zaglebie
+5809,Podbeskidzie
+5810,Lechia Gdansk
+5811,Wisla
+5812,Warta Poznan
+5813,Stal Mielec
+5814,Rakow
+5815,Cracovia
+5816,Jagiellonia
+5817,Lech Poznan
+5818,Legia
+5819,Piast Gliwice
+5820,Pogon Szczecin
+5821,Slask Wroclaw
+5822,Wisla Plock
+5823,Termalica B-B.
+5824,Lech Poznan
+5825,Leczna
+5826,Jagiellonia
+5827,Legia
+5828,Piast Gliwice
+5829,Slask Wroclaw
+5830,Pogon Szczecin
+5831,Wisla
+5832,Zaglebie
+5833,Gornik Z.
+5834,Stal Mielec
+5835,Termalica B-B.
+5836,Radomiak Radom
+5837,Warta Poznan
+5838,Cracovia
+5839,Jagiellonia
+5840,Lechia Gdansk
+5841,Leczna
+5842,Lech Poznan
+5843,Jagiellonia
+5844,Gornik Z.
+5845,Pogon Szczecin
+5846,Wisla
+5847,Slask Wroclaw
+5848,Wisla Plock
+5849,Termalica B-B.
+5850,Stal Mielec
+5851,Piast Gliwice
+5852,Lechia Gdansk
+5853,Warta Poznan
+5854,Slask Wroclaw
+5855,Zaglebie
+5856,Jagiellonia
+5857,Wisla Plock
+5858,Radomiak Radom
+5859,Pogon Szczecin
+5860,Cracovia
+5861,Leczna
+5862,Piast Gliwice
+5863,Lech Poznan
+5864,Stal Mielec
+5865,Warta Poznan
+5866,Termalica B-B.
+5867,Lechia Gdansk
+5868,Lech Poznan
+5869,Gornik Z.
+5870,Wisla Plock
+5871,Zaglebie
+5872,Wisla
+5873,Warta Poznan
+5874,Cracovia
+5875,Jagiellonia
+5876,Slask Wroclaw
+5877,Piast Gliwice
+5878,Wisla
+5879,Rakow
+5880,Leczna
+5881,Radomiak Radom
+5882,Zaglebie
+5883,Lech Poznan
+5884,Wisla Plock
+5885,Pogon Szczecin
+5886,Radomiak Radom
+5887,Lechia Gdansk
+5888,Stal Mielec
+5889,Gornik Z.
+5890,Legia
+5891,Leczna
+5892,Jagiellonia
+5893,Stal Mielec
+5894,Warta Poznan
+5895,Legia
+5896,Termalica B-B.
+5897,Slask Wroclaw
+5898,Wisla
+5899,Piast Gliwice
+5900,Rakow
+5901,Zaglebie
+5902,Piast Gliwice
+5903,Radomiak Radom
+5904,Cracovia
+5905,Lech Poznan
+5906,Gornik Z.
+5907,Rakow
+5908,Pogon Szczecin
+5909,Lechia Gdansk
+5910,Leczna
+5911,Termalica B-B.
+5912,Gornik Z.
+5913,Slask Wroclaw
+5914,Wisla Plock
+5915,Cracovia
+5916,Legia
+5917,Stal Mielec
+5918,Jagiellonia
+5919,Radomiak Radom
+5920,Lech Poznan
+5921,Rakow
+5922,Lechia Gdansk
+5923,Pogon Szczecin
+5924,Wisla
+5925,Zaglebie
+5926,Warta Poznan
+5927,Piast Gliwice
+5928,Cracovia
+5929,Stal Mielec
+5930,Termalica B-B.
+5931,Warta Poznan
+5932,Gornik Z.
+5933,Jagiellonia
+5934,Wisla Plock
+5935,Leczna
+5936,Legia

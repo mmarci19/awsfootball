@@ -1,0 +1,32 @@
+
+<form action="/action.php">
+    <input id = "home" type="text" name="homeTeam" >
+    <input id = "away" type="text" name="awayTeam"  >
+    <input id = "score" type="text" name="score" >
+</form>
+<button value="Submit" onclick="sendrequest()">
+
+    
+<script>
+var home_ = ""
+var away_ = ""
+var score_ = 0
+function sendrequest(){
+    printText()
+    var xmlhttp = new XMLHttpRequest();   // new HttpRequest instance 
+    var theUrl = "http://127.0.0.1:5000/sendPredictions";
+    xmlhttp.open("POST", theUrl);
+    xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+    xmlhttp.setRequestHeader('X-Requested-With', 'XMLHttpRequest'); 
+    xmlhttp.setRequestHeader('Access-Control-Allow-Origin', '*')
+    xmlhttp.send(JSON.stringify({"home": home_, "away": away_, "score" : score_ }));
+}
+
+
+function printText(){
+  home_ = document.getElementById('home').value;
+  away = document.getElementById('away').value;
+  score_ = document.getElementById('score').value;
+
+ }
+</script>
