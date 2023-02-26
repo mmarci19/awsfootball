@@ -392,7 +392,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(45deg, rgba(39, 25, 121, 0.8), rgba(226, 229, 230, 0.8)), url("https://www.pixelstalk.net/wp-content/uploads/images5/Messi-Paris-Saint-German-Wallpaper-1.jpg") center top no-repeat;
+  background: linear-gradient(45deg, rgba(39, 25, 121, 0.8), rgba(226, 229, 230, 0.8)), url("https://images.wallpapersden.com/image/download/hd-fifa-2023_bWplbWqUmZqaraWkpJRobWllrWdmam4.jpg") center top no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -468,8 +468,8 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  color: #1dc8cd;
-  background: #fff;
+  color: #000000;
+  background: #d3770e;
 }
 
 #hero .product-screens {
@@ -1028,7 +1028,7 @@ section {
   display: inline-block;
   padding: 6px 30px;
   border-radius: 20px;
-  color: #fff;
+  color: #000000;
   transition: none;
   font-size: 14px;
   font-weight: 400;
@@ -1040,7 +1040,7 @@ section {
 }
 
 #pricing .featured .get-started-btn {
-  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  background: linear-gradient(45deg, #000000, #ffffff);
 }
 
 /* Frequently Asked Questions Section
@@ -1329,7 +1329,7 @@ section {
 }
 
 button {
-  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  background: linear-gradient(45deg, #1a02a5, #000000);
   border: 0;
   border-radius: 20px;
   padding: 8px 30px;
