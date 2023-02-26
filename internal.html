@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Inner Page - Avilon Bootstrap Template</title>
+  <title>Internal</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -71,7 +71,7 @@
   <main id="main">
     <div style="margin-top:200px" id="tipster">
       <div  class="container">
-          <div class="row " style="margin-bottom:100px!important">
+          <div class="row container" style="margin-bottom:100px!important">
 
   
             <div class="col-lg-12 col-md-12">
@@ -112,7 +112,6 @@
                
                 <option>Brentford
                 </option><option>Man United
-                </option><option>Burnley
                 </option><option>Chelsea
                 </option><option>Everton
                 </option><option>Leicester
@@ -130,6 +129,7 @@
                 </option><option>Wolves
                 </option><option>Arsenal
                 </option><option>West Ham
+                </option><option>Bournemouth
                 </option>
               </select>
               </li>
@@ -139,7 +139,6 @@
                               <select id = "awayTeam" onChange="away_(this)"  class="form-select" aria-label="Default select example">
                                 <option>Brentford
                                 </option><option>Man United
-                                </option><option>Burnley
                                 </option><option>Chelsea
                                 </option><option>Everton
                                 </option><option>Leicester
@@ -157,6 +156,7 @@
                                 </option><option>Wolves
                                 </option><option>Arsenal
                                 </option><option>West Ham
+                                </option><option>Bournemouth
                                 </option>
                       
                               </select>
@@ -167,9 +167,9 @@
                   <a type="button" onclick="sendReq()" class = "button-13" style="background-color:rgb(18, 40, 99)!important;color:rgb(255, 255, 255)!important;border-style: none!important;">ANALYZE</a>
                   
             </div>
-
-              <div class="col-lg-12 col-md-12" style="color:rgb(18, 40, 99)!important;margin-top:10px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
-                  <div >
+              
+              <div class="col-lg-12 col-md-12 " style="color:rgb(18, 40, 99)!important;margin-top:10px;margin-left:auto;margin-right:auto;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+                  <div class="" >
                     
                           
                               <div style="margin-top:50px;margin-bottom:20px">
@@ -187,38 +187,65 @@
                               </div>
                                              
 
-                   
-                      <span style="color: rgb(18, 40, 99)!important;">Result: </span>
-                      <div  style="font-size: x-large;"  >
+                   <div style="text-align: center;">
+                              <span style="color:rgb(18, 40, 99)!important; ">
+                                <img src="https://th.bing.com/th/id/R.32f0eb2c02ec59e86fc0374839b4399c?rik=em7mWXzODrIRlw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_571584.png&ehk=GF3qJso%2faUurny5qy6z4IdQOxGrCx%2flMY9%2f37S0UdGg%3d&risl=&pid=ImgRaw&r=0" width="24" height="24">
+                                <b>RESULT</b>
+                                <img src="https://th.bing.com/th/id/R.32f0eb2c02ec59e86fc0374839b4399c?rik=em7mWXzODrIRlw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_571584.png&ehk=GF3qJso%2faUurny5qy6z4IdQOxGrCx%2flMY9%2f37S0UdGg%3d&risl=&pid=ImgRaw&r=0" width="24" height="24">
+                              </span>
+                      
+                              
+                                <div  style="font-size: x-large;"  >
                         <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamGoals" ></span>
                          -
                         <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamGoals"></span>       
                       </div>
-                      <span style="color: rgb(18, 40, 99)!important;">Yellow: </span>
-                      <div  style="font-size: x-large;"  >
-                        <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamYellow" ></span>
+                      <span style="color:rgb(18, 40, 99)!important; ">
+                        <img src="https://cdn1.iconfinder.com/data/icons/soccer-54/64/5-yellow-card-512.png" width="24" height="24">
+                        <b>YELLOW CARDS</b>
+                        <img src="https://cdn1.iconfinder.com/data/icons/soccer-54/64/5-yellow-card-512.png" width="24" height="24">
+                      </span>                      <div  style="font-size: x-large;margin-top:10px!important;"  >
+                        <span class="hero-text"  style="font-size: x-large;margin-top:10px!important;"    id="resultBoxHomeTeamYellow" ></span>
                          -
-                        <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamYellow"></span>       
+                        <span class="hero-text"  style="font-size: x-large;margin-top:10px!important;"   id="resultBoxAwayTeamYellow"></span>       
                       </div>
-                      <span style="color: rgb(18, 40, 99)!important;">Shots: </span>
-                      <div  style="font-size: x-large;"  >
-                        <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamShots" ></span>
-                         -
-                        <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamShots"></span>       
-                      </div>
-                      <span style="color: rgb(18, 40, 99)!important;">On target: </span>
-                      <div  style="font-size: x-large;"  >
-                        <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamOnTarget" ></span>
-                         -
-                        <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamOnTarget"></span>       
-                      </div>
-                      <span style="color: rgb(18, 40, 99)!important;">Corners</span>
-                      <div  style="font-size: x-large;"  >
-                        <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamCorners" ></span>
-                         -
-                        <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamCorners"></span>       
-                      </div>
+                      <span style="color:rgb(18, 40, 99)!important; ">
+                        <img src="https://th.bing.com/th/id/OIP.KYWReBugosETvoxbUqzPTwHaHa?pid=ImgDet&rs=1" width="24" height="24">
+                        <b>SHOTS</b>
+                        <img src="https://th.bing.com/th/id/OIP.KYWReBugosETvoxbUqzPTwHaHa?pid=ImgDet&rs=1" width="24" height="24">
+                        
+                      </span>
+                      
+              
+                      
+                        <div  style="font-size: x-large;margin-top:10px!important;"  >
+                <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamShots" ></span>
+                 -
+                <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamShots"></span>       
+              </div>
+              <span style="color:rgb(18, 40, 99)!important; ">
+                <img src="https://www.clipartkey.com/mpngs/m/280-2800659_red-cross-icon-png-cross-in-red-circle.png" width="24" height="24">
+                <b>ON TARGET</b>
+                <img src="https://www.clipartkey.com/mpngs/m/280-2800659_red-cross-icon-png-cross-in-red-circle.png" width="24" height="24">
+              </span>                      
+              <div  style="font-size: x-large;margin-top:10px!important;"  >
+                <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamOnTarget" ></span>
+                 -
+                <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamOnTarget"></span>       
+              </div>
+              <span style="color:rgb(18, 40, 99)!important; ">
+                <img src="https://static.thenounproject.com/png/30197-200.png" width="24" height="24">
+                <b>CORNERS</b>
+                <img src="https://static.thenounproject.com/png/30197-200.png" width="24" height="24">
+                
+              </span> 
+              <div  style="font-size: x-large;margin-top:10px!important;"  >
+                <span class="hero-text"  style="font-size: x-large;"    id="resultBoxHomeTeamCorners" ></span>
+                 -
+                <span class="hero-text"  style="font-size: x-large;"   id="resultBoxAwayTeamCorners"></span>       
+              </div>
                   </div>
+                </div>
               </div>
              
 
@@ -290,7 +317,7 @@ xmlhttp.onreadystatechange = function() {//Call a function when the state change
     var arr = []
     if(league == "Premier League"){
        arr = [
-      "Brentford","Man United","Burnley","Chelsea","Everton","Leicester","Fulham","Nott'm Forest","Newcastle","Tottenham","Liverpool","Aston Villa","Crystal Palace","Leeds","Man City","Southampton","Wolves","Arsenal","West Ham","Bournemouth"
+      "Brentford","Man United","Chelsea","Everton","Leicester","Fulham","Nott'm Forest","Newcastle","Tottenham","Liverpool","Aston Villa","Crystal Palace","Leeds","Man City","Southampton","Wolves","Arsenal","West Ham","Bournemouth"
       ]
     }
     if(league == "Serie A"){
